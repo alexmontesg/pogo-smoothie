@@ -1,0 +1,6320 @@
+{
+  "Bulbasaur": {
+    "stats": {
+      "HP": 90,
+      "Atk": 118,
+      "Def": 118
+    },
+    "buddy": 3,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Ivysaur",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Ivysaur": {
+    "stats": {
+      "HP": 120,
+      "Atk": 151,
+      "Def": 151
+    },
+    "buddy": 3,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Venusaur",
+          "candy": 100
+        }
+      ],
+      "from": "Bulbasaur"
+    }
+  },
+  "Venusaur": {
+    "stats": {
+      "HP": 160,
+      "Atk": 198,
+      "Def": 198
+    },
+    "buddy": 3,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "evolution": {
+      "from": "Ivysaur"
+    }
+  },
+  "Charmander": {
+    "stats": {
+      "HP": 78,
+      "Atk": 116,
+      "Def": 96
+    },
+    "buddy": 3,
+    "types": [
+      "Fire"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Charmeleon",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Charmeleon": {
+    "stats": {
+      "HP": 116,
+      "Atk": 158,
+      "Def": 129
+    },
+    "buddy": 3,
+    "types": [
+      "Fire"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Charizard",
+          "candy": 100
+        }
+      ],
+      "from": "Charmander"
+    }
+  },
+  "Charizard": {
+    "stats": {
+      "HP": 156,
+      "Atk": 223,
+      "Def": 176
+    },
+    "buddy": 3,
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "evolution": {
+      "from": "Charmeleon"
+    }
+  },
+  "Squirtle": {
+    "stats": {
+      "HP": 88,
+      "Atk": 94,
+      "Def": 122
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Wartortle",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Wartortle": {
+    "stats": {
+      "HP": 118,
+      "Atk": 126,
+      "Def": 155
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Blastoise",
+          "candy": 100
+        }
+      ],
+      "from": "Squirtle"
+    }
+  },
+  "Blastoise": {
+    "stats": {
+      "HP": 158,
+      "Atk": 171,
+      "Def": 210
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "from": "Wartortle"
+    }
+  },
+  "Caterpie": {
+    "stats": {
+      "HP": 90,
+      "Atk": 55,
+      "Def": 62
+    },
+    "buddy": 1,
+    "types": [
+      "Bug"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Metapod",
+          "candy": 12
+        }
+      ]
+    }
+  },
+  "Metapod": {
+    "stats": {
+      "HP": 100,
+      "Atk": 45,
+      "Def": 94
+    },
+    "buddy": 1,
+    "types": [
+      "Bug"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Butterfree",
+          "candy": 50
+        }
+      ],
+      "from": "Caterpie"
+    }
+  },
+  "Butterfree": {
+    "stats": {
+      "HP": 120,
+      "Atk": 167,
+      "Def": 151
+    },
+    "buddy": 1,
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "evolution": {
+      "from": "Metapod"
+    }
+  },
+  "Weedle": {
+    "stats": {
+      "HP": 80,
+      "Atk": 63,
+      "Def": 55
+    },
+    "buddy": 1,
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Kakuna",
+          "candy": 12
+        }
+      ]
+    }
+  },
+  "Kakuna": {
+    "stats": {
+      "HP": 90,
+      "Atk": 46,
+      "Def": 86
+    },
+    "buddy": 1,
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Beedrill",
+          "candy": 50
+        }
+      ],
+      "from": "Weedle"
+    }
+  },
+  "Beedrill": {
+    "stats": {
+      "HP": 130,
+      "Atk": 169,
+      "Def": 150
+    },
+    "buddy": 1,
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "evolution": {
+      "from": "Kakuna"
+    }
+  },
+  "Pidgey": {
+    "stats": {
+      "HP": 80,
+      "Atk": 85,
+      "Def": 76
+    },
+    "buddy": 1,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Pidgeotto",
+          "candy": 12
+        }
+      ]
+    }
+  },
+  "Pidgeotto": {
+    "stats": {
+      "HP": 126,
+      "Atk": 117,
+      "Def": 108
+    },
+    "buddy": 1,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Pidgeot",
+          "candy": 50
+        }
+      ],
+      "from": "Pidgey"
+    }
+  },
+  "Pidgeot": {
+    "stats": {
+      "HP": 166,
+      "Atk": 166,
+      "Def": 157
+    },
+    "buddy": 1,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": {
+      "from": "Pidgeotto"
+    }
+  },
+  "Rattata": {
+    "stats": {
+      "HP": 60,
+      "Atk": 103,
+      "Def": 70
+    },
+    "buddy": 1,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Raticate",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Raticate": {
+    "stats": {
+      "HP": 110,
+      "Atk": 161,
+      "Def": 144
+    },
+    "buddy": 1,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "from": "Rattata"
+    }
+  },
+  "Spearow": {
+    "stats": {
+      "HP": 80,
+      "Atk": 112,
+      "Def": 61
+    },
+    "buddy": 1,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Fearow",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Fearow": {
+    "stats": {
+      "HP": 130,
+      "Atk": 182,
+      "Def": 135
+    },
+    "buddy": 1,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": {
+      "from": "Spearow"
+    }
+  },
+  "Ekans": {
+    "stats": {
+      "HP": 70,
+      "Atk": 110,
+      "Def": 102
+    },
+    "buddy": 3,
+    "types": [
+      "Poison"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Arbok",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Arbok": {
+    "stats": {
+      "HP": 120,
+      "Atk": 167,
+      "Def": 158
+    },
+    "buddy": 3,
+    "types": [
+      "Poison"
+    ],
+    "evolution": {
+      "from": "Ekans"
+    }
+  },
+  "Pikachu": {
+    "stats": {
+      "HP": 70,
+      "Atk": 112,
+      "Def": 101
+    },
+    "buddy": 1,
+    "types": [
+      "Electric"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Raichu",
+          "candy": 50
+        }
+      ],
+      "from": "Pichu"
+    }
+  },
+  "Raichu": {
+    "stats": {
+      "HP": 120,
+      "Atk": 193,
+      "Def": 165
+    },
+    "buddy": 1,
+    "types": [
+      "Electric"
+    ],
+    "evolution": {
+      "from": "Pikachu"
+    }
+  },
+  "Sandshrew": {
+    "stats": {
+      "HP": 100,
+      "Atk": 126,
+      "Def": 145
+    },
+    "buddy": 3,
+    "types": [
+      "Ground"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Sandslash",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Sandslash": {
+    "stats": {
+      "HP": 150,
+      "Atk": 182,
+      "Def": 202
+    },
+    "buddy": 3,
+    "types": [
+      "Ground"
+    ],
+    "evolution": {
+      "from": "Sandshrew"
+    }
+  },
+  "Nidoran_female": {
+    "stats": {
+      "HP": 110,
+      "Atk": 86,
+      "Def": 94
+    },
+    "buddy": 3,
+    "types": [
+      "Poison"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Nidorina",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Nidorina": {
+    "stats": {
+      "HP": 140,
+      "Atk": 117,
+      "Def": 126
+    },
+    "buddy": 3,
+    "types": [
+      "Poison"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Nidoqueen",
+          "candy": 100
+        }
+      ],
+      "from": "Nidoran_female"
+    }
+  },
+  "Nidoqueen": {
+    "stats": {
+      "HP": 180,
+      "Atk": 180,
+      "Def": 174
+    },
+    "buddy": 3,
+    "types": [
+      "Poison",
+      "Ground"
+    ],
+    "evolution": {
+      "from": "Nidorina"
+    }
+  },
+  "Nidoran_male": {
+    "stats": {
+      "HP": 92,
+      "Atk": 105,
+      "Def": 76
+    },
+    "buddy": 3,
+    "types": [
+      "Poison"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Nidorino",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Nidorino": {
+    "stats": {
+      "HP": 122,
+      "Atk": 137,
+      "Def": 112
+    },
+    "buddy": 3,
+    "types": [
+      "Poison"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Nidoking",
+          "candy": 100
+        }
+      ],
+      "from": "Nidoran_male"
+    }
+  },
+  "Nidoking": {
+    "stats": {
+      "HP": 162,
+      "Atk": 204,
+      "Def": 157
+    },
+    "buddy": 3,
+    "types": [
+      "Poison",
+      "Ground"
+    ],
+    "evolution": {
+      "from": "Nidorino"
+    }
+  },
+  "Clefairy": {
+    "stats": {
+      "HP": 140,
+      "Atk": 107,
+      "Def": 116
+    },
+    "buddy": 1,
+    "types": [
+      "Fairy"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Clefable",
+          "candy": 50
+        }
+      ],
+      "from": "Cleffa"
+    }
+  },
+  "Clefable": {
+    "stats": {
+      "HP": 190,
+      "Atk": 178,
+      "Def": 171
+    },
+    "buddy": 1,
+    "types": [
+      "Fairy"
+    ],
+    "evolution": {
+      "from": "Clefairy"
+    }
+  },
+  "Vulpix": {
+    "stats": {
+      "HP": 76,
+      "Atk": 96,
+      "Def": 122
+    },
+    "buddy": 3,
+    "types": [
+      "Fire"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Ninetales",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Ninetales": {
+    "stats": {
+      "HP": 146,
+      "Atk": 169,
+      "Def": 204
+    },
+    "buddy": 3,
+    "types": [
+      "Fire"
+    ],
+    "evolution": {
+      "from": "Vulpix"
+    }
+  },
+  "Jigglypuff": {
+    "stats": {
+      "HP": 230,
+      "Atk": 80,
+      "Def": 44
+    },
+    "buddy": 1,
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Wigglytuff",
+          "candy": 50
+        }
+      ],
+      "from": "Igglybuff"
+    }
+  },
+  "Wigglytuff": {
+    "stats": {
+      "HP": 280,
+      "Atk": 156,
+      "Def": 93
+    },
+    "buddy": 1,
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "evolution": {
+      "from": "Jigglypuff"
+    }
+  },
+  "Zubat": {
+    "stats": {
+      "HP": 80,
+      "Atk": 83,
+      "Def": 76
+    },
+    "buddy": 1,
+    "types": [
+      "Poison",
+      "Flying"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Golbat",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Golbat": {
+    "stats": {
+      "HP": 150,
+      "Atk": 161,
+      "Def": 153
+    },
+    "buddy": 1,
+    "types": [
+      "Poison",
+      "Flying"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Crobat",
+          "candy": 100
+        }
+      ],
+      "from": "Zubat"
+    }
+  },
+  "Oddish": {
+    "stats": {
+      "HP": 90,
+      "Atk": 131,
+      "Def": 116
+    },
+    "buddy": 3,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Gloom",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Gloom": {
+    "stats": {
+      "HP": 120,
+      "Atk": 153,
+      "Def": 139
+    },
+    "buddy": 3,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Vileplume",
+          "candy": 100
+        },
+        {
+          "name": "Bellossom",
+          "candy": 100
+        }
+      ],
+      "from": "Oddish"
+    }
+  },
+  "Vileplume": {
+    "stats": {
+      "HP": 150,
+      "Atk": 202,
+      "Def": 170
+    },
+    "buddy": 3,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "evolution": {
+      "from": "Gloom"
+    }
+  },
+  "Paras": {
+    "stats": {
+      "HP": 70,
+      "Atk": 121,
+      "Def": 99
+    },
+    "buddy": 3,
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Parasect",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Parasect": {
+    "stats": {
+      "HP": 120,
+      "Atk": 165,
+      "Def": 146
+    },
+    "buddy": 3,
+    "types": [
+      "Bug",
+      "Grass"
+    ],
+    "evolution": {
+      "from": "Paras"
+    }
+  },
+  "Venonat": {
+    "stats": {
+      "HP": 120,
+      "Atk": 100,
+      "Def": 102
+    },
+    "buddy": 3,
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Venomoth",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Venomoth": {
+    "stats": {
+      "HP": 140,
+      "Atk": 179,
+      "Def": 150
+    },
+    "buddy": 3,
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "evolution": {
+      "from": "Venonat"
+    }
+  },
+  "Diglett": {
+    "stats": {
+      "HP": 20,
+      "Atk": 109,
+      "Def": 88
+    },
+    "buddy": 3,
+    "types": [
+      "Ground"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Dugtrio",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Dugtrio": {
+    "stats": {
+      "HP": 70,
+      "Atk": 167,
+      "Def": 147
+    },
+    "buddy": 3,
+    "types": [
+      "Ground"
+    ],
+    "evolution": {
+      "from": "Diglett"
+    }
+  },
+  "Meowth": {
+    "stats": {
+      "HP": 80,
+      "Atk": 92,
+      "Def": 81
+    },
+    "buddy": 3,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Persian",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Persian": {
+    "stats": {
+      "HP": 130,
+      "Atk": 150,
+      "Def": 139
+    },
+    "buddy": 3,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "from": "Meowth"
+    }
+  },
+  "Psyduck": {
+    "stats": {
+      "HP": 100,
+      "Atk": 122,
+      "Def": 96
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Golduck",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Golduck": {
+    "stats": {
+      "HP": 160,
+      "Atk": 191,
+      "Def": 163
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "from": "Psyduck"
+    }
+  },
+  "Mankey": {
+    "stats": {
+      "HP": 80,
+      "Atk": 148,
+      "Def": 87
+    },
+    "buddy": 3,
+    "types": [
+      "Fighting"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Primeape",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Primeape": {
+    "stats": {
+      "HP": 130,
+      "Atk": 207,
+      "Def": 144
+    },
+    "buddy": 3,
+    "types": [
+      "Fighting"
+    ],
+    "evolution": {
+      "from": "Mankey"
+    }
+  },
+  "Growlithe": {
+    "stats": {
+      "HP": 110,
+      "Atk": 136,
+      "Def": 96
+    },
+    "buddy": 3,
+    "types": [
+      "Fire"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Arcanine",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Arcanine": {
+    "stats": {
+      "HP": 180,
+      "Atk": 227,
+      "Def": 166
+    },
+    "buddy": 3,
+    "types": [
+      "Fire"
+    ],
+    "evolution": {
+      "from": "Growlithe"
+    }
+  },
+  "Poliwag": {
+    "stats": {
+      "HP": 80,
+      "Atk": 101,
+      "Def": 82
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Poliwhirl",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Poliwhirl": {
+    "stats": {
+      "HP": 130,
+      "Atk": 130,
+      "Def": 130
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Poliwrath",
+          "candy": 100
+        },
+        {
+          "name": "Politoed",
+          "candy": 100
+        }
+      ],
+      "from": "Poliwag"
+    }
+  },
+  "Poliwrath": {
+    "stats": {
+      "HP": 180,
+      "Atk": 182,
+      "Def": 187
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Fighting"
+    ],
+    "evolution": {
+      "from": "Poliwhirl"
+    }
+  },
+  "Abra": {
+    "stats": {
+      "HP": 50,
+      "Atk": 195,
+      "Def": 103
+    },
+    "buddy": 3,
+    "types": [
+      "Psychic"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Kadabra",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Kadabra": {
+    "stats": {
+      "HP": 80,
+      "Atk": 232,
+      "Def": 138
+    },
+    "buddy": 3,
+    "types": [
+      "Psychic"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Alakazam",
+          "candy": 100
+        }
+      ],
+      "from": "Abra"
+    }
+  },
+  "Alakazam": {
+    "stats": {
+      "HP": 110,
+      "Atk": 271,
+      "Def": 194
+    },
+    "buddy": 3,
+    "types": [
+      "Psychic"
+    ],
+    "evolution": {
+      "from": "Kadabra"
+    }
+  },
+  "Machop": {
+    "stats": {
+      "HP": 140,
+      "Atk": 137,
+      "Def": 88
+    },
+    "buddy": 3,
+    "types": [
+      "Fighting"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Machoke",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Machoke": {
+    "stats": {
+      "HP": 160,
+      "Atk": 177,
+      "Def": 130
+    },
+    "buddy": 3,
+    "types": [
+      "Fighting"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Machamp",
+          "candy": 100
+        }
+      ],
+      "from": "Machop"
+    }
+  },
+  "Machamp": {
+    "stats": {
+      "HP": 180,
+      "Atk": 234,
+      "Def": 162
+    },
+    "buddy": 3,
+    "types": [
+      "Fighting"
+    ],
+    "evolution": {
+      "from": "Machoke"
+    }
+  },
+  "Bellsprout": {
+    "stats": {
+      "HP": 100,
+      "Atk": 139,
+      "Def": 64
+    },
+    "buddy": 3,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Weepinbell",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Weepinbell": {
+    "stats": {
+      "HP": 130,
+      "Atk": 172,
+      "Def": 95
+    },
+    "buddy": 3,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Victreebel",
+          "candy": 100
+        }
+      ],
+      "from": "Bellsprout"
+    }
+  },
+  "Victreebel": {
+    "stats": {
+      "HP": 160,
+      "Atk": 207,
+      "Def": 138
+    },
+    "buddy": 3,
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "evolution": {
+      "from": "Weepinbell"
+    }
+  },
+  "Tentacool": {
+    "stats": {
+      "HP": 80,
+      "Atk": 97,
+      "Def": 182
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Poison"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Tentacruel",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Tentacruel": {
+    "stats": {
+      "HP": 160,
+      "Atk": 166,
+      "Def": 237
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Poison"
+    ],
+    "evolution": {
+      "from": "Tentacool"
+    }
+  },
+  "Geodude": {
+    "stats": {
+      "HP": 80,
+      "Atk": 132,
+      "Def": 163
+    },
+    "buddy": 1,
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Graveler",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Graveler": {
+    "stats": {
+      "HP": 110,
+      "Atk": 164,
+      "Def": 196
+    },
+    "buddy": 1,
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Golem",
+          "candy": 100
+        }
+      ],
+      "from": "Geodude"
+    }
+  },
+  "Golem": {
+    "stats": {
+      "HP": 160,
+      "Atk": 211,
+      "Def": 229
+    },
+    "buddy": 1,
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "evolution": {
+      "from": "Graveler"
+    }
+  },
+  "Ponyta": {
+    "stats": {
+      "HP": 100,
+      "Atk": 170,
+      "Def": 132
+    },
+    "buddy": 3,
+    "types": [
+      "Fire"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Rapidash",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Rapidash": {
+    "stats": {
+      "HP": 130,
+      "Atk": 207,
+      "Def": 167
+    },
+    "buddy": 3,
+    "types": [
+      "Fire"
+    ],
+    "evolution": {
+      "from": "Ponyta"
+    }
+  },
+  "Slowpoke": {
+    "stats": {
+      "HP": 180,
+      "Atk": 109,
+      "Def": 109
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Slowbro",
+          "candy": 50
+        },
+        {
+          "name": "Slowking",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Slowbro": {
+    "stats": {
+      "HP": 190,
+      "Atk": 177,
+      "Def": 194
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "evolution": {
+      "from": "Slowpoke"
+    }
+  },
+  "Magnemite": {
+    "stats": {
+      "HP": 50,
+      "Atk": 165,
+      "Def": 128
+    },
+    "buddy": 3,
+    "types": [
+      "Electric",
+      "Steel"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Magneton",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Magneton": {
+    "stats": {
+      "HP": 100,
+      "Atk": 223,
+      "Def": 182
+    },
+    "buddy": 3,
+    "types": [
+      "Electric",
+      "Steel"
+    ],
+    "evolution": {
+      "from": "Magnemite"
+    }
+  },
+  "Farfetchd": {
+    "stats": {
+      "HP": 104,
+      "Atk": 124,
+      "Def": 118
+    },
+    "buddy": 3,
+    "types": [
+      "Normal",
+      "Flying"
+    ]
+  },
+  "Doduo": {
+    "stats": {
+      "HP": 70,
+      "Atk": 158,
+      "Def": 88
+    },
+    "buddy": 3,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Dodrio",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Dodrio": {
+    "stats": {
+      "HP": 120,
+      "Atk": 218,
+      "Def": 145
+    },
+    "buddy": 3,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": {
+      "from": "Doduo"
+    }
+  },
+  "Seel": {
+    "stats": {
+      "HP": 130,
+      "Atk": 85,
+      "Def": 128
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Dewgong",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Dewgong": {
+    "stats": {
+      "HP": 180,
+      "Atk": 139,
+      "Def": 184
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "evolution": {
+      "from": "Seel"
+    }
+  },
+  "Grimer": {
+    "stats": {
+      "HP": 160,
+      "Atk": 135,
+      "Def": 90
+    },
+    "buddy": 3,
+    "types": [
+      "Poison"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Muk",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Muk": {
+    "stats": {
+      "HP": 210,
+      "Atk": 190,
+      "Def": 184
+    },
+    "buddy": 3,
+    "types": [
+      "Poison"
+    ],
+    "evolution": {
+      "from": "Grimer"
+    }
+  },
+  "Shellder": {
+    "stats": {
+      "HP": 60,
+      "Atk": 116,
+      "Def": 168
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Cloyster",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Cloyster": {
+    "stats": {
+      "HP": 100,
+      "Atk": 186,
+      "Def": 323
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Ice"
+    ],
+    "evolution": {
+      "from": "Shellder"
+    }
+  },
+  "Gastly": {
+    "stats": {
+      "HP": 60,
+      "Atk": 186,
+      "Def": 70
+    },
+    "buddy": 3,
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Haunter",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Haunter": {
+    "stats": {
+      "HP": 90,
+      "Atk": 223,
+      "Def": 112
+    },
+    "buddy": 3,
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Gengar",
+          "candy": 100
+        }
+      ],
+      "from": "Gastly"
+    }
+  },
+  "Gengar": {
+    "stats": {
+      "HP": 120,
+      "Atk": 261,
+      "Def": 156
+    },
+    "buddy": 3,
+    "types": [
+      "Ghost",
+      "Poison"
+    ],
+    "evolution": {
+      "from": "Haunter"
+    }
+  },
+  "Onix": {
+    "stats": {
+      "HP": 70,
+      "Atk": 85,
+      "Def": 288
+    },
+    "buddy": 5,
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Steelix",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Drowzee": {
+    "stats": {
+      "HP": 120,
+      "Atk": 89,
+      "Def": 158
+    },
+    "buddy": 3,
+    "types": [
+      "Psychic"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Hypno",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Hypno": {
+    "stats": {
+      "HP": 170,
+      "Atk": 144,
+      "Def": 215
+    },
+    "buddy": 3,
+    "types": [
+      "Psychic"
+    ],
+    "evolution": {
+      "from": "Drowzee"
+    }
+  },
+  "Krabby": {
+    "stats": {
+      "HP": 60,
+      "Atk": 181,
+      "Def": 156
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Kingler",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Kingler": {
+    "stats": {
+      "HP": 110,
+      "Atk": 240,
+      "Def": 214
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "from": "Krabby"
+    }
+  },
+  "Voltorb": {
+    "stats": {
+      "HP": 80,
+      "Atk": 109,
+      "Def": 114
+    },
+    "buddy": 3,
+    "types": [
+      "Electric"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Electrode",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Electrode": {
+    "stats": {
+      "HP": 120,
+      "Atk": 173,
+      "Def": 179
+    },
+    "buddy": 3,
+    "types": [
+      "Electric"
+    ],
+    "evolution": {
+      "from": "Voltorb"
+    }
+  },
+  "Exeggcute": {
+    "stats": {
+      "HP": 120,
+      "Atk": 107,
+      "Def": 140
+    },
+    "buddy": 3,
+    "types": [
+      "Grass",
+      "Psychic"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Exeggutor",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Exeggutor": {
+    "stats": {
+      "HP": 190,
+      "Atk": 233,
+      "Def": 158
+    },
+    "buddy": 3,
+    "types": [
+      "Grass",
+      "Psychic"
+    ],
+    "evolution": {
+      "from": "Exeggcute"
+    }
+  },
+  "Cubone": {
+    "stats": {
+      "HP": 100,
+      "Atk": 90,
+      "Def": 165
+    },
+    "buddy": 3,
+    "types": [
+      "Ground"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Marowak",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Marowak": {
+    "stats": {
+      "HP": 120,
+      "Atk": 144,
+      "Def": 200
+    },
+    "buddy": 3,
+    "types": [
+      "Ground"
+    ],
+    "evolution": {
+      "from": "Cubone"
+    }
+  },
+  "Hitmonlee": {
+    "stats": {
+      "HP": 100,
+      "Atk": 224,
+      "Def": 211
+    },
+    "buddy": 5,
+    "types": [
+      "Fighting"
+    ],
+    "evolution": {
+      "from": "Tyrogue"
+    }
+  },
+  "Hitmonchan": {
+    "stats": {
+      "HP": 100,
+      "Atk": 193,
+      "Def": 212
+    },
+    "buddy": 5,
+    "types": [
+      "Fighting"
+    ],
+    "evolution": {
+      "from": "Tyrogue"
+    }
+  },
+  "Lickitung": {
+    "stats": {
+      "HP": 180,
+      "Atk": 108,
+      "Def": 137
+    },
+    "buddy": 3,
+    "types": [
+      "Normal"
+    ]
+  },
+  "Koffing": {
+    "stats": {
+      "HP": 80,
+      "Atk": 119,
+      "Def": 164
+    },
+    "buddy": 3,
+    "types": [
+      "Poison"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Weezing",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Weezing": {
+    "stats": {
+      "HP": 130,
+      "Atk": 174,
+      "Def": 221
+    },
+    "buddy": 3,
+    "types": [
+      "Poison"
+    ],
+    "evolution": {
+      "from": "Koffing"
+    }
+  },
+  "Rhyhorn": {
+    "stats": {
+      "HP": 160,
+      "Atk": 140,
+      "Def": 157
+    },
+    "buddy": 3,
+    "types": [
+      "Ground",
+      "Rock"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Rhydon",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Rhydon": {
+    "stats": {
+      "HP": 210,
+      "Atk": 222,
+      "Def": 206
+    },
+    "buddy": 3,
+    "types": [
+      "Ground",
+      "Rock"
+    ],
+    "evolution": {
+      "from": "Rhyhorn"
+    }
+  },
+  "Chansey": {
+    "stats": {
+      "HP": 500,
+      "Atk": 60,
+      "Def": 176
+    },
+    "buddy": 5,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Blissey",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Tangela": {
+    "stats": {
+      "HP": 130,
+      "Atk": 183,
+      "Def": 205
+    },
+    "buddy": 3,
+    "types": [
+      "Grass"
+    ]
+  },
+  "Kangaskhan": {
+    "stats": {
+      "HP": 210,
+      "Atk": 181,
+      "Def": 165
+    },
+    "buddy": 3,
+    "types": [
+      "Normal"
+    ]
+  },
+  "Horsea": {
+    "stats": {
+      "HP": 60,
+      "Atk": 129,
+      "Def": 125
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Seadra",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Seadra": {
+    "stats": {
+      "HP": 110,
+      "Atk": 187,
+      "Def": 182
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Kingdra",
+          "candy": 100
+        }
+      ],
+      "from": "Horsea"
+    }
+  },
+  "Goldeen": {
+    "stats": {
+      "HP": 90,
+      "Atk": 123,
+      "Def": 115
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Seaking",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Seaking": {
+    "stats": {
+      "HP": 160,
+      "Atk": 175,
+      "Def": 154
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "from": "Goldeen"
+    }
+  },
+  "Staryu": {
+    "stats": {
+      "HP": 60,
+      "Atk": 137,
+      "Def": 112
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Starmie",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Starmie": {
+    "stats": {
+      "HP": 120,
+      "Atk": 210,
+      "Def": 184
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "evolution": {
+      "from": "Staryu"
+    }
+  },
+  "Mr_mime": {
+    "stats": {
+      "HP": 80,
+      "Atk": 192,
+      "Def": 233
+    },
+    "buddy": 5,
+    "types": [
+      "Psychic",
+      "Fairy"
+    ]
+  },
+  "Scyther": {
+    "stats": {
+      "HP": 140,
+      "Atk": 218,
+      "Def": 170
+    },
+    "buddy": 5,
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Scizor",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Jynx": {
+    "stats": {
+      "HP": 130,
+      "Atk": 223,
+      "Def": 182
+    },
+    "buddy": 5,
+    "types": [
+      "Ice",
+      "Psychic"
+    ],
+    "evolution": {
+      "from": "Smoochum"
+    }
+  },
+  "Electabuzz": {
+    "stats": {
+      "HP": 130,
+      "Atk": 198,
+      "Def": 173
+    },
+    "buddy": 5,
+    "types": [
+      "Electric"
+    ],
+    "evolution": {
+      "from": "Elekid"
+    }
+  },
+  "Magmar": {
+    "stats": {
+      "HP": 130,
+      "Atk": 206,
+      "Def": 169
+    },
+    "buddy": 5,
+    "types": [
+      "Fire"
+    ],
+    "evolution": {
+      "from": "Magby"
+    }
+  },
+  "Pinsir": {
+    "stats": {
+      "HP": 130,
+      "Atk": 238,
+      "Def": 197
+    },
+    "buddy": 5,
+    "types": [
+      "Bug"
+    ]
+  },
+  "Tauros": {
+    "stats": {
+      "HP": 150,
+      "Atk": 198,
+      "Def": 197
+    },
+    "buddy": 3,
+    "types": [
+      "Normal"
+    ]
+  },
+  "Magikarp": {
+    "stats": {
+      "HP": 40,
+      "Atk": 29,
+      "Def": 102
+    },
+    "buddy": 1,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Gyarados",
+          "candy": 400
+        }
+      ]
+    }
+  },
+  "Gyarados": {
+    "stats": {
+      "HP": 190,
+      "Atk": 237,
+      "Def": 197
+    },
+    "buddy": 1,
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "evolution": {
+      "from": "Magikarp"
+    }
+  },
+  "Lapras": {
+    "stats": {
+      "HP": 260,
+      "Atk": 165,
+      "Def": 180
+    },
+    "buddy": 5,
+    "types": [
+      "Water",
+      "Ice"
+    ]
+  },
+  "Ditto": {
+    "stats": {
+      "HP": 96,
+      "Atk": 91,
+      "Def": 91
+    },
+    "buddy": 3,
+    "types": [
+      "Normal"
+    ]
+  },
+  "Eevee": {
+    "stats": {
+      "HP": 110,
+      "Atk": 104,
+      "Def": 121
+    },
+    "buddy": 5,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Vaporeon",
+          "candy": 25
+        },
+        {
+          "name": "Jolteon",
+          "candy": 25
+        },
+        {
+          "name": "Flareon",
+          "candy": 25
+        },
+        {
+          "name": "Espeon",
+          "candy": 25
+        },
+        {
+          "name": "Umbreon",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Vaporeon": {
+    "stats": {
+      "HP": 260,
+      "Atk": 205,
+      "Def": 177
+    },
+    "buddy": 5,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "from": "Eevee"
+    }
+  },
+  "Jolteon": {
+    "stats": {
+      "HP": 130,
+      "Atk": 232,
+      "Def": 201
+    },
+    "buddy": 5,
+    "types": [
+      "Electric"
+    ],
+    "evolution": {
+      "from": "Eevee"
+    }
+  },
+  "Flareon": {
+    "stats": {
+      "HP": 130,
+      "Atk": 246,
+      "Def": 204
+    },
+    "buddy": 5,
+    "types": [
+      "Fire"
+    ],
+    "evolution": {
+      "from": "Eevee"
+    }
+  },
+  "Porygon": {
+    "stats": {
+      "HP": 130,
+      "Atk": 153,
+      "Def": 139
+    },
+    "buddy": 3,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Porygon2",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Omanyte": {
+    "stats": {
+      "HP": 70,
+      "Atk": 155,
+      "Def": 174
+    },
+    "buddy": 5,
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Omastar",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Omastar": {
+    "stats": {
+      "HP": 140,
+      "Atk": 207,
+      "Def": 227
+    },
+    "buddy": 5,
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "evolution": {
+      "from": "Omanyte"
+    }
+  },
+  "Kabuto": {
+    "stats": {
+      "HP": 60,
+      "Atk": 148,
+      "Def": 162
+    },
+    "buddy": 5,
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Kabutops",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Kabutops": {
+    "stats": {
+      "HP": 120,
+      "Atk": 220,
+      "Def": 203
+    },
+    "buddy": 5,
+    "types": [
+      "Rock",
+      "Water"
+    ],
+    "evolution": {
+      "from": "Kabuto"
+    }
+  },
+  "Aerodactyl": {
+    "stats": {
+      "HP": 160,
+      "Atk": 221,
+      "Def": 164
+    },
+    "buddy": 5,
+    "types": [
+      "Rock",
+      "Flying"
+    ]
+  },
+  "Snorlax": {
+    "stats": {
+      "HP": 320,
+      "Atk": 190,
+      "Def": 190
+    },
+    "buddy": 5,
+    "types": [
+      "Normal"
+    ]
+  },
+  "Articuno": {
+    "stats": {
+      "HP": 180,
+      "Atk": 192,
+      "Def": 249
+    },
+    "buddy": 20,
+    "types": [
+      "Ice",
+      "Flying"
+    ]
+  },
+  "Zapdos": {
+    "stats": {
+      "HP": 180,
+      "Atk": 253,
+      "Def": 188
+    },
+    "buddy": 20,
+    "types": [
+      "Electric",
+      "Flying"
+    ]
+  },
+  "Moltres": {
+    "stats": {
+      "HP": 180,
+      "Atk": 251,
+      "Def": 184
+    },
+    "buddy": 20,
+    "types": [
+      "Fire",
+      "Flying"
+    ]
+  },
+  "Dratini": {
+    "stats": {
+      "HP": 82,
+      "Atk": 119,
+      "Def": 94
+    },
+    "buddy": 5,
+    "types": [
+      "Dragon"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Dragonair",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Dragonair": {
+    "stats": {
+      "HP": 122,
+      "Atk": 163,
+      "Def": 138
+    },
+    "buddy": 5,
+    "types": [
+      "Dragon"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Dragonite",
+          "candy": 100
+        }
+      ],
+      "from": "Dratini"
+    }
+  },
+  "Dragonite": {
+    "stats": {
+      "HP": 182,
+      "Atk": 263,
+      "Def": 201
+    },
+    "buddy": 5,
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "evolution": {
+      "from": "Dragonair"
+    }
+  },
+  "Mewtwo": {
+    "stats": {
+      "HP": 193,
+      "Atk": 300,
+      "Def": 182
+    },
+    "buddy": 20,
+    "types": [
+      "Psychic"
+    ]
+  },
+  "Mew": {
+    "stats": {
+      "HP": 200,
+      "Atk": 210,
+      "Def": 210
+    },
+    "buddy": 20,
+    "types": [
+      "Psychic"
+    ]
+  },
+  "Chikorita": {
+    "stats": {
+      "HP": 90,
+      "Atk": 92,
+      "Def": 122
+    },
+    "buddy": 3,
+    "types": [
+      "Grass"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Bayleef",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Bayleef": {
+    "stats": {
+      "HP": 120,
+      "Atk": 122,
+      "Def": 155
+    },
+    "buddy": 3,
+    "types": [
+      "Grass"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Meganium",
+          "candy": 100
+        }
+      ],
+      "from": "Chikorita"
+    }
+  },
+  "Meganium": {
+    "stats": {
+      "HP": 160,
+      "Atk": 168,
+      "Def": 202
+    },
+    "buddy": 3,
+    "types": [
+      "Grass"
+    ],
+    "evolution": {
+      "from": "Bayleef"
+    }
+  },
+  "Cyndaquil": {
+    "stats": {
+      "HP": 78,
+      "Atk": 116,
+      "Def": 96
+    },
+    "buddy": 3,
+    "types": [
+      "Fire"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Quilava",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Quilava": {
+    "stats": {
+      "HP": 116,
+      "Atk": 158,
+      "Def": 129
+    },
+    "buddy": 3,
+    "types": [
+      "Fire"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Typhlosion",
+          "candy": 100
+        }
+      ],
+      "from": "Cyndaquil"
+    }
+  },
+  "Typhlosion": {
+    "stats": {
+      "HP": 156,
+      "Atk": 223,
+      "Def": 176
+    },
+    "buddy": 3,
+    "types": [
+      "Fire"
+    ],
+    "evolution": {
+      "from": "Quilava"
+    }
+  },
+  "Totodile": {
+    "stats": {
+      "HP": 100,
+      "Atk": 117,
+      "Def": 116
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Croconaw",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Croconaw": {
+    "stats": {
+      "HP": 130,
+      "Atk": 150,
+      "Def": 151
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Feraligatr",
+          "candy": 100
+        }
+      ],
+      "from": "Totodile"
+    }
+  },
+  "Feraligatr": {
+    "stats": {
+      "HP": 170,
+      "Atk": 205,
+      "Def": 197
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "from": "Croconaw"
+    }
+  },
+  "Sentret": {
+    "stats": {
+      "HP": 70,
+      "Atk": 79,
+      "Def": 77
+    },
+    "buddy": 1,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Furret",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Furret": {
+    "stats": {
+      "HP": 170,
+      "Atk": 148,
+      "Def": 130
+    },
+    "buddy": 1,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "from": "Sentret"
+    }
+  },
+  "Hoothoot": {
+    "stats": {
+      "HP": 120,
+      "Atk": 67,
+      "Def": 101
+    },
+    "buddy": 1,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Noctowl",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Noctowl": {
+    "stats": {
+      "HP": 200,
+      "Atk": 145,
+      "Def": 179
+    },
+    "buddy": 1,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": {
+      "from": "Hoothoot"
+    }
+  },
+  "Ledyba": {
+    "stats": {
+      "HP": 80,
+      "Atk": 72,
+      "Def": 142
+    },
+    "buddy": 1,
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Ledian",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Ledian": {
+    "stats": {
+      "HP": 110,
+      "Atk": 107,
+      "Def": 209
+    },
+    "buddy": 1,
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "evolution": {
+      "from": "Ledyba"
+    }
+  },
+  "Spinarak": {
+    "stats": {
+      "HP": 80,
+      "Atk": 105,
+      "Def": 73
+    },
+    "buddy": 1,
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Ariados",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Ariados": {
+    "stats": {
+      "HP": 140,
+      "Atk": 161,
+      "Def": 128
+    },
+    "buddy": 1,
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "evolution": {
+      "from": "Spinarak"
+    }
+  },
+  "Crobat": {
+    "stats": {
+      "HP": 170,
+      "Atk": 194,
+      "Def": 178
+    },
+    "buddy": 1,
+    "types": [
+      "Poison",
+      "Flying"
+    ],
+    "evolution": {
+      "from": "Golbat"
+    }
+  },
+  "Chinchou": {
+    "stats": {
+      "HP": 150,
+      "Atk": 106,
+      "Def": 106
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Electric"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Lanturn",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Lanturn": {
+    "stats": {
+      "HP": 250,
+      "Atk": 146,
+      "Def": 146
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Electric"
+    ],
+    "evolution": {
+      "from": "Chinchou"
+    }
+  },
+  "Pichu": {
+    "stats": {
+      "HP": 40,
+      "Atk": 77,
+      "Def": 63
+    },
+    "buddy": 1,
+    "types": [
+      "Electric"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Pikachu",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Cleffa": {
+    "stats": {
+      "HP": 100,
+      "Atk": 75,
+      "Def": 91
+    },
+    "buddy": 1,
+    "types": [
+      "Fairy"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Clefairy",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Igglybuff": {
+    "stats": {
+      "HP": 180,
+      "Atk": 69,
+      "Def": 34
+    },
+    "buddy": 1,
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Jigglypuff",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Togepi": {
+    "stats": {
+      "HP": 70,
+      "Atk": 67,
+      "Def": 116
+    },
+    "buddy": 3,
+    "types": [
+      "Fairy"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Togetic",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Togetic": {
+    "stats": {
+      "HP": 110,
+      "Atk": 139,
+      "Def": 191
+    },
+    "buddy": 3,
+    "types": [
+      "Fairy",
+      "Flying"
+    ],
+    "evolution": {
+      "from": "Togepi"
+    }
+  },
+  "Natu": {
+    "stats": {
+      "HP": 80,
+      "Atk": 134,
+      "Def": 89
+    },
+    "buddy": 3,
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Xatu",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Xatu": {
+    "stats": {
+      "HP": 130,
+      "Atk": 192,
+      "Def": 146
+    },
+    "buddy": 3,
+    "types": [
+      "Psychic",
+      "Flying"
+    ],
+    "evolution": {
+      "from": "Natu"
+    }
+  },
+  "Mareep": {
+    "stats": {
+      "HP": 110,
+      "Atk": 114,
+      "Def": 82
+    },
+    "buddy": 5,
+    "types": [
+      "Electric"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Flaaffy",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Flaaffy": {
+    "stats": {
+      "HP": 140,
+      "Atk": 145,
+      "Def": 112
+    },
+    "buddy": 5,
+    "types": [
+      "Electric"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Ampharos",
+          "candy": 100
+        }
+      ],
+      "from": "Mareep"
+    }
+  },
+  "Ampharos": {
+    "stats": {
+      "HP": 180,
+      "Atk": 211,
+      "Def": 172
+    },
+    "buddy": 5,
+    "types": [
+      "Electric"
+    ],
+    "evolution": {
+      "from": "Flaaffy"
+    }
+  },
+  "Bellossom": {
+    "stats": {
+      "HP": 150,
+      "Atk": 169,
+      "Def": 189
+    },
+    "buddy": 3,
+    "types": [
+      "Grass"
+    ],
+    "evolution": {
+      "from": "Gloom"
+    }
+  },
+  "Marill": {
+    "stats": {
+      "HP": 140,
+      "Atk": 37,
+      "Def": 93
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Fairy"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Azumarill",
+          "candy": 25
+        }
+      ],
+      "from": "Azurill"
+    }
+  },
+  "Azumarill": {
+    "stats": {
+      "HP": 200,
+      "Atk": 112,
+      "Def": 152
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Fairy"
+    ],
+    "evolution": {
+      "from": "Marill"
+    }
+  },
+  "Sudowoodo": {
+    "stats": {
+      "HP": 140,
+      "Atk": 167,
+      "Def": 198
+    },
+    "buddy": 5,
+    "types": [
+      "Rock"
+    ]
+  },
+  "Politoed": {
+    "stats": {
+      "HP": 180,
+      "Atk": 174,
+      "Def": 192
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "from": "Poliwhirl"
+    }
+  },
+  "Hoppip": {
+    "stats": {
+      "HP": 70,
+      "Atk": 67,
+      "Def": 101
+    },
+    "buddy": 3,
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Skiploom",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Skiploom": {
+    "stats": {
+      "HP": 110,
+      "Atk": 91,
+      "Def": 127
+    },
+    "buddy": 3,
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Jumpluff",
+          "candy": 100
+        }
+      ],
+      "from": "Hoppip"
+    }
+  },
+  "Jumpluff": {
+    "stats": {
+      "HP": 150,
+      "Atk": 118,
+      "Def": 197
+    },
+    "buddy": 3,
+    "types": [
+      "Grass",
+      "Flying"
+    ],
+    "evolution": {
+      "from": "Skiploom"
+    }
+  },
+  "Aipom": {
+    "stats": {
+      "HP": 110,
+      "Atk": 136,
+      "Def": 112
+    },
+    "buddy": 3,
+    "types": [
+      "Normal"
+    ]
+  },
+  "Sunkern": {
+    "stats": {
+      "HP": 60,
+      "Atk": 55,
+      "Def": 55
+    },
+    "buddy": 3,
+    "types": [
+      "Grass"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Sunflora",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Sunflora": {
+    "stats": {
+      "HP": 150,
+      "Atk": 185,
+      "Def": 148
+    },
+    "buddy": 3,
+    "types": [
+      "Grass"
+    ],
+    "evolution": {
+      "from": "Sunkern"
+    }
+  },
+  "Yanma": {
+    "stats": {
+      "HP": 130,
+      "Atk": 154,
+      "Def": 94
+    },
+    "buddy": 3,
+    "types": [
+      "Bug",
+      "Flying"
+    ]
+  },
+  "Wooper": {
+    "stats": {
+      "HP": 110,
+      "Atk": 75,
+      "Def": 75
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Quagsire",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Quagsire": {
+    "stats": {
+      "HP": 190,
+      "Atk": 152,
+      "Def": 152
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "evolution": {
+      "from": "Wooper"
+    }
+  },
+  "Espeon": {
+    "stats": {
+      "HP": 130,
+      "Atk": 261,
+      "Def": 194
+    },
+    "buddy": 5,
+    "types": [
+      "Psychic"
+    ],
+    "evolution": {
+      "from": "Eevee"
+    }
+  },
+  "Umbreon": {
+    "stats": {
+      "HP": 190,
+      "Atk": 126,
+      "Def": 250
+    },
+    "buddy": 5,
+    "types": [
+      "Dark"
+    ],
+    "evolution": {
+      "from": "Eevee"
+    }
+  },
+  "Murkrow": {
+    "stats": {
+      "HP": 120,
+      "Atk": 175,
+      "Def": 87
+    },
+    "buddy": 3,
+    "types": [
+      "Dark",
+      "Flying"
+    ]
+  },
+  "Slowking": {
+    "stats": {
+      "HP": 190,
+      "Atk": 177,
+      "Def": 194
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "evolution": {
+      "from": "Slowpoke"
+    }
+  },
+  "Misdreavus": {
+    "stats": {
+      "HP": 120,
+      "Atk": 167,
+      "Def": 167
+    },
+    "buddy": 3,
+    "types": [
+      "Ghost"
+    ]
+  },
+  "Unown": {
+    "stats": {
+      "HP": 96,
+      "Atk": 136,
+      "Def": 91
+    },
+    "buddy": 5,
+    "types": [
+      "Psychic"
+    ]
+  },
+  "Wobbuffet": {
+    "stats": {
+      "HP": 380,
+      "Atk": 60,
+      "Def": 106
+    },
+    "buddy": 3,
+    "types": [
+      "Psychic"
+    ],
+    "evolution": {
+      "from": "Wynaut"
+    }
+  },
+  "Girafarig": {
+    "stats": {
+      "HP": 140,
+      "Atk": 182,
+      "Def": 133
+    },
+    "buddy": 3,
+    "types": [
+      "Normal",
+      "Psychic"
+    ]
+  },
+  "Pineco": {
+    "stats": {
+      "HP": 100,
+      "Atk": 108,
+      "Def": 146
+    },
+    "buddy": 5,
+    "types": [
+      "Bug"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Forretress",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Forretress": {
+    "stats": {
+      "HP": 150,
+      "Atk": 161,
+      "Def": 242
+    },
+    "buddy": 5,
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "evolution": {
+      "from": "Pineco"
+    }
+  },
+  "Dunsparce": {
+    "stats": {
+      "HP": 200,
+      "Atk": 131,
+      "Def": 131
+    },
+    "buddy": 3,
+    "types": [
+      "Normal"
+    ]
+  },
+  "Gligar": {
+    "stats": {
+      "HP": 130,
+      "Atk": 143,
+      "Def": 204
+    },
+    "buddy": 5,
+    "types": [
+      "Ground",
+      "Flying"
+    ]
+  },
+  "Steelix": {
+    "stats": {
+      "HP": 150,
+      "Atk": 148,
+      "Def": 333
+    },
+    "buddy": 5,
+    "types": [
+      "Steel",
+      "Ground"
+    ],
+    "evolution": {
+      "from": "Onix"
+    }
+  },
+  "Snubbull": {
+    "stats": {
+      "HP": 120,
+      "Atk": 137,
+      "Def": 89
+    },
+    "buddy": 3,
+    "types": [
+      "Fairy"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Granbull",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Granbull": {
+    "stats": {
+      "HP": 180,
+      "Atk": 212,
+      "Def": 137
+    },
+    "buddy": 3,
+    "types": [
+      "Fairy"
+    ],
+    "evolution": {
+      "from": "Snubbull"
+    }
+  },
+  "Qwilfish": {
+    "stats": {
+      "HP": 130,
+      "Atk": 184,
+      "Def": 148
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Poison"
+    ]
+  },
+  "Scizor": {
+    "stats": {
+      "HP": 140,
+      "Atk": 236,
+      "Def": 191
+    },
+    "buddy": 5,
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "evolution": {
+      "from": "Scyther"
+    }
+  },
+  "Shuckle": {
+    "stats": {
+      "HP": 40,
+      "Atk": 17,
+      "Def": 396
+    },
+    "buddy": 3,
+    "types": [
+      "Bug",
+      "Rock"
+    ]
+  },
+  "Heracross": {
+    "stats": {
+      "HP": 160,
+      "Atk": 234,
+      "Def": 189
+    },
+    "buddy": 3,
+    "types": [
+      "Bug",
+      "Fighting"
+    ]
+  },
+  "Sneasel": {
+    "stats": {
+      "HP": 110,
+      "Atk": 189,
+      "Def": 157
+    },
+    "buddy": 3,
+    "types": [
+      "Dark",
+      "Ice"
+    ]
+  },
+  "Teddiursa": {
+    "stats": {
+      "HP": 120,
+      "Atk": 142,
+      "Def": 93
+    },
+    "buddy": 3,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Ursaring",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Ursaring": {
+    "stats": {
+      "HP": 180,
+      "Atk": 236,
+      "Def": 144
+    },
+    "buddy": 3,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "from": "Teddiursa"
+    }
+  },
+  "Slugma": {
+    "stats": {
+      "HP": 80,
+      "Atk": 118,
+      "Def": 71
+    },
+    "buddy": 1,
+    "types": [
+      "Fire"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Magcargo",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Magcargo": {
+    "stats": {
+      "HP": 100,
+      "Atk": 139,
+      "Def": 209
+    },
+    "buddy": 1,
+    "types": [
+      "Fire",
+      "Rock"
+    ],
+    "evolution": {
+      "from": "Slugma"
+    }
+  },
+  "Swinub": {
+    "stats": {
+      "HP": 100,
+      "Atk": 90,
+      "Def": 74
+    },
+    "buddy": 3,
+    "types": [
+      "Ice",
+      "Ground"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Piloswine",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Piloswine": {
+    "stats": {
+      "HP": 200,
+      "Atk": 181,
+      "Def": 147
+    },
+    "buddy": 3,
+    "types": [
+      "Ice",
+      "Ground"
+    ],
+    "evolution": {
+      "from": "Swinub"
+    }
+  },
+  "Corsola": {
+    "stats": {
+      "HP": 110,
+      "Atk": 118,
+      "Def": 156
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Rock"
+    ]
+  },
+  "Remoraid": {
+    "stats": {
+      "HP": 70,
+      "Atk": 127,
+      "Def": 69
+    },
+    "buddy": 1,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Octillery",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Octillery": {
+    "stats": {
+      "HP": 150,
+      "Atk": 197,
+      "Def": 141
+    },
+    "buddy": 1,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "from": "Remoraid"
+    }
+  },
+  "Delibird": {
+    "stats": {
+      "HP": 90,
+      "Atk": 128,
+      "Def": 90
+    },
+    "buddy": 5,
+    "types": [
+      "Ice",
+      "Flying"
+    ]
+  },
+  "Mantine": {
+    "stats": {
+      "HP": 130,
+      "Atk": 148,
+      "Def": 260
+    },
+    "buddy": 5,
+    "types": [
+      "Water",
+      "Flying"
+    ]
+  },
+  "Skarmory": {
+    "stats": {
+      "HP": 130,
+      "Atk": 148,
+      "Def": 260
+    },
+    "buddy": 5,
+    "types": [
+      "Steel",
+      "Flying"
+    ]
+  },
+  "Houndour": {
+    "stats": {
+      "HP": 90,
+      "Atk": 152,
+      "Def": 93
+    },
+    "buddy": 3,
+    "types": [
+      "Dark",
+      "Fire"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Houndoom",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Houndoom": {
+    "stats": {
+      "HP": 150,
+      "Atk": 224,
+      "Def": 159
+    },
+    "buddy": 3,
+    "types": [
+      "Dark",
+      "Fire"
+    ],
+    "evolution": {
+      "from": "Houndour"
+    }
+  },
+  "Kingdra": {
+    "stats": {
+      "HP": 150,
+      "Atk": 194,
+      "Def": 194
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Dragon"
+    ],
+    "evolution": {
+      "from": "Seadra"
+    }
+  },
+  "Phanpy": {
+    "stats": {
+      "HP": 180,
+      "Atk": 107,
+      "Def": 107
+    },
+    "buddy": 3,
+    "types": [
+      "Ground"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Donphan",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Donphan": {
+    "stats": {
+      "HP": 180,
+      "Atk": 214,
+      "Def": 214
+    },
+    "buddy": 3,
+    "types": [
+      "Ground"
+    ],
+    "evolution": {
+      "from": "Phanpy"
+    }
+  },
+  "Porygon2": {
+    "stats": {
+      "HP": 170,
+      "Atk": 198,
+      "Def": 183
+    },
+    "buddy": 3,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "from": "Porygon"
+    }
+  },
+  "Stantler": {
+    "stats": {
+      "HP": 146,
+      "Atk": 192,
+      "Def": 132
+    },
+    "buddy": 3,
+    "types": [
+      "Normal"
+    ]
+  },
+  "Smeargle": {
+    "stats": {
+      "HP": 110,
+      "Atk": 40,
+      "Def": 88
+    },
+    "buddy": 3,
+    "types": [
+      "Normal"
+    ]
+  },
+  "Tyrogue": {
+    "stats": {
+      "HP": 70,
+      "Atk": 64,
+      "Def": 64
+    },
+    "buddy": 5,
+    "types": [
+      "Fighting"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Hitmonlee",
+          "candy": 25
+        },
+        {
+          "name": "Hitmonchan",
+          "candy": 25
+        },
+        {
+          "name": "Hitmontop",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Hitmontop": {
+    "stats": {
+      "HP": 100,
+      "Atk": 173,
+      "Def": 214
+    },
+    "buddy": 5,
+    "types": [
+      "Fighting"
+    ],
+    "evolution": {
+      "from": "Tyrogue"
+    }
+  },
+  "Smoochum": {
+    "stats": {
+      "HP": 90,
+      "Atk": 153,
+      "Def": 116
+    },
+    "buddy": 5,
+    "types": [
+      "Ice",
+      "Psychic"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Jynx",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Elekid": {
+    "stats": {
+      "HP": 90,
+      "Atk": 135,
+      "Def": 110
+    },
+    "buddy": 5,
+    "types": [
+      "Electric"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Electabuzz",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Magby": {
+    "stats": {
+      "HP": 90,
+      "Atk": 151,
+      "Def": 108
+    },
+    "buddy": 5,
+    "types": [
+      "Fire"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Magmar",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Miltank": {
+    "stats": {
+      "HP": 190,
+      "Atk": 157,
+      "Def": 211
+    },
+    "buddy": 5,
+    "types": [
+      "Normal"
+    ]
+  },
+  "Blissey": {
+    "stats": {
+      "HP": 510,
+      "Atk": 129,
+      "Def": 229
+    },
+    "buddy": 5,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "from": "Chansey"
+    }
+  },
+  "Raikou": {
+    "stats": {
+      "HP": 180,
+      "Atk": 241,
+      "Def": 210
+    },
+    "buddy": 20,
+    "types": [
+      "Electric"
+    ]
+  },
+  "Entei": {
+    "stats": {
+      "HP": 230,
+      "Atk": 235,
+      "Def": 176
+    },
+    "buddy": 20,
+    "types": [
+      "Fire"
+    ]
+  },
+  "Suicune": {
+    "stats": {
+      "HP": 200,
+      "Atk": 180,
+      "Def": 235
+    },
+    "buddy": 20,
+    "types": [
+      "Water"
+    ]
+  },
+  "Larvitar": {
+    "stats": {
+      "HP": 100,
+      "Atk": 115,
+      "Def": 93
+    },
+    "buddy": 5,
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Pupitar",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Pupitar": {
+    "stats": {
+      "HP": 140,
+      "Atk": 155,
+      "Def": 133
+    },
+    "buddy": 5,
+    "types": [
+      "Rock",
+      "Ground"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Tyranitar",
+          "candy": 100
+        }
+      ],
+      "from": "Larvitar"
+    }
+  },
+  "Tyranitar": {
+    "stats": {
+      "HP": 200,
+      "Atk": 251,
+      "Def": 212
+    },
+    "buddy": 5,
+    "types": [
+      "Rock",
+      "Dark"
+    ],
+    "evolution": {
+      "from": "Pupitar"
+    }
+  },
+  "Lugia": {
+    "stats": {
+      "HP": 212,
+      "Atk": 193,
+      "Def": 323
+    },
+    "buddy": 20,
+    "types": [
+      "Psychic",
+      "Flying"
+    ]
+  },
+  "Ho_oh": {
+    "stats": {
+      "HP": 193,
+      "Atk": 239,
+      "Def": 274
+    },
+    "buddy": 20,
+    "types": [
+      "Fire",
+      "Flying"
+    ]
+  },
+  "Celebi": {
+    "stats": {
+      "HP": 200,
+      "Atk": 210,
+      "Def": 210
+    },
+    "buddy": 20,
+    "types": [
+      "Psychic",
+      "Grass"
+    ]
+  },
+  "Treecko": {
+    "stats": {
+      "HP": 80,
+      "Atk": 124,
+      "Def": 104
+    },
+    "buddy": 3,
+    "types": [
+      "Grass"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Grovyle",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Grovyle": {
+    "stats": {
+      "HP": 100,
+      "Atk": 172,
+      "Def": 130
+    },
+    "buddy": 3,
+    "types": [
+      "Grass"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Sceptile",
+          "candy": 100
+        }
+      ],
+      "from": "Treecko"
+    }
+  },
+  "Sceptile": {
+    "stats": {
+      "HP": 140,
+      "Atk": 223,
+      "Def": 180
+    },
+    "buddy": 3,
+    "types": [
+      "Grass"
+    ],
+    "evolution": {
+      "from": "Grovyle"
+    }
+  },
+  "Torchic": {
+    "stats": {
+      "HP": 90,
+      "Atk": 130,
+      "Def": 92
+    },
+    "buddy": 3,
+    "types": [
+      "Fire"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Combusken",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Combusken": {
+    "stats": {
+      "HP": 120,
+      "Atk": 163,
+      "Def": 115
+    },
+    "buddy": 3,
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Blaziken",
+          "candy": 100
+        }
+      ],
+      "from": "Torchic"
+    }
+  },
+  "Blaziken": {
+    "stats": {
+      "HP": 160,
+      "Atk": 240,
+      "Def": 141
+    },
+    "buddy": 3,
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "evolution": {
+      "from": "Combusken"
+    }
+  },
+  "Mudkip": {
+    "stats": {
+      "HP": 100,
+      "Atk": 126,
+      "Def": 93
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Marshtomp",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Marshtomp": {
+    "stats": {
+      "HP": 140,
+      "Atk": 156,
+      "Def": 133
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Swampert",
+          "candy": 100
+        }
+      ],
+      "from": "Mudkip"
+    }
+  },
+  "Swampert": {
+    "stats": {
+      "HP": 200,
+      "Atk": 208,
+      "Def": 175
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "evolution": {
+      "from": "Marshtomp"
+    }
+  },
+  "Poochyena": {
+    "stats": {
+      "HP": 70,
+      "Atk": 96,
+      "Def": 63
+    },
+    "buddy": 1,
+    "types": [
+      "Dark"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Mightyena",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Mightyena": {
+    "stats": {
+      "HP": 140,
+      "Atk": 171,
+      "Def": 137
+    },
+    "buddy": 1,
+    "types": [
+      "Dark"
+    ],
+    "evolution": {
+      "from": "Poochyena"
+    }
+  },
+  "Zigzagoon": {
+    "stats": {
+      "HP": 76,
+      "Atk": 58,
+      "Def": 80
+    },
+    "buddy": 1,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Linoone",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Linoone": {
+    "stats": {
+      "HP": 156,
+      "Atk": 142,
+      "Def": 128
+    },
+    "buddy": 1,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "from": "Zigzagoon"
+    }
+  },
+  "Wurmple": {
+    "stats": {
+      "HP": 90,
+      "Atk": 75,
+      "Def": 61
+    },
+    "buddy": 1,
+    "types": [
+      "Bug"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Silcoon",
+          "candy": 12
+        },
+        {
+          "name": "Cascoon",
+          "candy": 12
+        }
+      ]
+    }
+  },
+  "Silcoon": {
+    "stats": {
+      "HP": 100,
+      "Atk": 60,
+      "Def": 91
+    },
+    "buddy": 1,
+    "types": [
+      "Bug"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Beautifly",
+          "candy": 50
+        }
+      ],
+      "from": "Wurmple"
+    }
+  },
+  "Beautifly": {
+    "stats": {
+      "HP": 120,
+      "Atk": 189,
+      "Def": 98
+    },
+    "buddy": 1,
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "evolution": {
+      "from": "Silcoon"
+    }
+  },
+  "Cascoon": {
+    "stats": {
+      "HP": 100,
+      "Atk": 60,
+      "Def": 91
+    },
+    "buddy": 1,
+    "types": [
+      "Bug"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Dustox",
+          "candy": 50
+        }
+      ],
+      "from": "Wurmple"
+    }
+  },
+  "Dustox": {
+    "stats": {
+      "HP": 120,
+      "Atk": 98,
+      "Def": 172
+    },
+    "buddy": 1,
+    "types": [
+      "Bug",
+      "Poison"
+    ],
+    "evolution": {
+      "from": "Cascoon"
+    }
+  },
+  "Lotad": {
+    "stats": {
+      "HP": 80,
+      "Atk": 71,
+      "Def": 86
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Grass"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Lombre",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Lombre": {
+    "stats": {
+      "HP": 120,
+      "Atk": 112,
+      "Def": 128
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Grass"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Ludicolo",
+          "candy": 100
+        }
+      ],
+      "from": "Lotad"
+    }
+  },
+  "Ludicolo": {
+    "stats": {
+      "HP": 160,
+      "Atk": 173,
+      "Def": 191
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Grass"
+    ],
+    "evolution": {
+      "from": "Lombre"
+    }
+  },
+  "Seedot": {
+    "stats": {
+      "HP": 80,
+      "Atk": 71,
+      "Def": 86
+    },
+    "buddy": 3,
+    "types": [
+      "Grass"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Nuzleaf",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Nuzleaf": {
+    "stats": {
+      "HP": 140,
+      "Atk": 134,
+      "Def": 78
+    },
+    "buddy": 3,
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Shiftry",
+          "candy": 100
+        }
+      ],
+      "from": "Seedot"
+    }
+  },
+  "Shiftry": {
+    "stats": {
+      "HP": 180,
+      "Atk": 200,
+      "Def": 121
+    },
+    "buddy": 3,
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "evolution": {
+      "from": "Nuzleaf"
+    }
+  },
+  "Taillow": {
+    "stats": {
+      "HP": 80,
+      "Atk": 106,
+      "Def": 61
+    },
+    "buddy": 1,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Swellow",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Swellow": {
+    "stats": {
+      "HP": 120,
+      "Atk": 185,
+      "Def": 130
+    },
+    "buddy": 1,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": {
+      "from": "Taillow"
+    }
+  },
+  "Wingull": {
+    "stats": {
+      "HP": 80,
+      "Atk": 106,
+      "Def": 61
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Pelipper",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Pelipper": {
+    "stats": {
+      "HP": 120,
+      "Atk": 175,
+      "Def": 189
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "evolution": {
+      "from": "Wingull"
+    }
+  },
+  "Ralts": {
+    "stats": {
+      "HP": 56,
+      "Atk": 79,
+      "Def": 63
+    },
+    "buddy": 5,
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Kirlia",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Kirlia": {
+    "stats": {
+      "HP": 76,
+      "Atk": 117,
+      "Def": 100
+    },
+    "buddy": 5,
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Gardevoir",
+          "candy": 100
+        }
+      ],
+      "from": "Ralts"
+    }
+  },
+  "Gardevoir": {
+    "stats": {
+      "HP": 136,
+      "Atk": 237,
+      "Def": 220
+    },
+    "buddy": 5,
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "evolution": {
+      "from": "Kirlia"
+    }
+  },
+  "Surskit": {
+    "stats": {
+      "HP": 80,
+      "Atk": 93,
+      "Def": 97
+    },
+    "buddy": 1,
+    "types": [
+      "Bug",
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Masquerain",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Masquerain": {
+    "stats": {
+      "HP": 140,
+      "Atk": 192,
+      "Def": 161
+    },
+    "buddy": 1,
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "evolution": {
+      "from": "Surskit"
+    }
+  },
+  "Shroomish": {
+    "stats": {
+      "HP": 120,
+      "Atk": 74,
+      "Def": 110
+    },
+    "buddy": 3,
+    "types": [
+      "Grass"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Breloom",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Breloom": {
+    "stats": {
+      "HP": 120,
+      "Atk": 241,
+      "Def": 153
+    },
+    "buddy": 3,
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "evolution": {
+      "from": "Shroomish"
+    }
+  },
+  "Slakoth": {
+    "stats": {
+      "HP": 120,
+      "Atk": 104,
+      "Def": 104
+    },
+    "buddy": 5,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Vigoroth",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Vigoroth": {
+    "stats": {
+      "HP": 160,
+      "Atk": 159,
+      "Def": 159
+    },
+    "buddy": 5,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Slaking",
+          "candy": 100
+        }
+      ],
+      "from": "Slakoth"
+    }
+  },
+  "Slaking": {
+    "stats": {
+      "HP": 273,
+      "Atk": 290,
+      "Def": 183
+    },
+    "buddy": 5,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "from": "Vigoroth"
+    }
+  },
+  "Nincada": {
+    "stats": {
+      "HP": 62,
+      "Atk": 80,
+      "Def": 153
+    },
+    "buddy": 5,
+    "types": [
+      "Bug",
+      "Ground"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Ninjask",
+          "candy": 50
+        },
+        {
+          "name": "Shedinja",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Ninjask": {
+    "stats": {
+      "HP": 122,
+      "Atk": 196,
+      "Def": 114
+    },
+    "buddy": 5,
+    "types": [
+      "Bug",
+      "Flying"
+    ],
+    "evolution": {
+      "from": "Nincada"
+    }
+  },
+  "Shedinja": {
+    "stats": {
+      "HP": 2,
+      "Atk": 153,
+      "Def": 80
+    },
+    "buddy": 5,
+    "types": [
+      "Bug",
+      "Ghost"
+    ],
+    "evolution": {
+      "from": "Nincada"
+    }
+  },
+  "Whismur": {
+    "stats": {
+      "HP": 128,
+      "Atk": 92,
+      "Def": 42
+    },
+    "buddy": 1,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Loudred",
+          "candy": 12
+        }
+      ]
+    }
+  },
+  "Loudred": {
+    "stats": {
+      "HP": 168,
+      "Atk": 134,
+      "Def": 81
+    },
+    "buddy": 1,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Exploud",
+          "candy": 50
+        }
+      ],
+      "from": "Whismur"
+    }
+  },
+  "Exploud": {
+    "stats": {
+      "HP": 208,
+      "Atk": 179,
+      "Def": 142
+    },
+    "buddy": 1,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "from": "Loudred"
+    }
+  },
+  "Makuhita": {
+    "stats": {
+      "HP": 144,
+      "Atk": 99,
+      "Def": 54
+    },
+    "buddy": 3,
+    "types": [
+      "Fighting"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Hariyama",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Hariyama": {
+    "stats": {
+      "HP": 288,
+      "Atk": 209,
+      "Def": 114
+    },
+    "buddy": 3,
+    "types": [
+      "Fighting"
+    ],
+    "evolution": {
+      "from": "Makuhita"
+    }
+  },
+  "Azurill": {
+    "stats": {
+      "HP": 100,
+      "Atk": 36,
+      "Def": 71
+    },
+    "buddy": 3,
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Marill",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Nosepass": {
+    "stats": {
+      "HP": 60,
+      "Atk": 82,
+      "Def": 236
+    },
+    "buddy": 3,
+    "types": [
+      "Rock"
+    ]
+  },
+  "Skitty": {
+    "stats": {
+      "HP": 100,
+      "Atk": 84,
+      "Def": 84
+    },
+    "buddy": 3,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Delcatty",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Delcatty": {
+    "stats": {
+      "HP": 140,
+      "Atk": 132,
+      "Def": 132
+    },
+    "buddy": 3,
+    "types": [
+      "Normal"
+    ],
+    "evolution": {
+      "from": "Skitty"
+    }
+  },
+  "Sableye": {
+    "stats": {
+      "HP": 100,
+      "Atk": 141,
+      "Def": 141
+    },
+    "buddy": 5,
+    "types": [
+      "Dark",
+      "Ghost"
+    ]
+  },
+  "Mawile": {
+    "stats": {
+      "HP": 100,
+      "Atk": 155,
+      "Def": 155
+    },
+    "buddy": 5,
+    "types": [
+      "Steel",
+      "Fairy"
+    ]
+  },
+  "Aron": {
+    "stats": {
+      "HP": 100,
+      "Atk": 121,
+      "Def": 168
+    },
+    "buddy": 1,
+    "types": [
+      "Steel",
+      "Rock"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Lairon",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Lairon": {
+    "stats": {
+      "HP": 120,
+      "Atk": 158,
+      "Def": 240
+    },
+    "buddy": 1,
+    "types": [
+      "Steel",
+      "Rock"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Aggron",
+          "candy": 100
+        }
+      ],
+      "from": "Aron"
+    }
+  },
+  "Aggron": {
+    "stats": {
+      "HP": 140,
+      "Atk": 198,
+      "Def": 314
+    },
+    "buddy": 1,
+    "types": [
+      "Steel",
+      "Rock"
+    ],
+    "evolution": {
+      "from": "Lairon"
+    }
+  },
+  "Meditite": {
+    "stats": {
+      "HP": 60,
+      "Atk": 78,
+      "Def": 107
+    },
+    "buddy": 3,
+    "types": [
+      "Fighting",
+      "Psychic"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Medicham",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Medicham": {
+    "stats": {
+      "HP": 120,
+      "Atk": 121,
+      "Def": 152
+    },
+    "buddy": 3,
+    "types": [
+      "Fighting",
+      "Psychic"
+    ],
+    "evolution": {
+      "from": "Meditite"
+    }
+  },
+  "Electrike": {
+    "stats": {
+      "HP": 80,
+      "Atk": 123,
+      "Def": 78
+    },
+    "buddy": 3,
+    "types": [
+      "Electric"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Manectric",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Manectric": {
+    "stats": {
+      "HP": 140,
+      "Atk": 215,
+      "Def": 127
+    },
+    "buddy": 3,
+    "types": [
+      "Electric"
+    ],
+    "evolution": {
+      "from": "Electrike"
+    }
+  },
+  "Plusle": {
+    "stats": {
+      "HP": 120,
+      "Atk": 167,
+      "Def": 147
+    },
+    "buddy": 3,
+    "types": [
+      "Electric"
+    ]
+  },
+  "Minun": {
+    "stats": {
+      "HP": 120,
+      "Atk": 147,
+      "Def": 167
+    },
+    "buddy": 3,
+    "types": [
+      "Electric"
+    ]
+  },
+  "Volbeat": {
+    "stats": {
+      "HP": 130,
+      "Atk": 143,
+      "Def": 171
+    },
+    "buddy": 3,
+    "types": [
+      "Bug"
+    ]
+  },
+  "Illumise": {
+    "stats": {
+      "HP": 130,
+      "Atk": 143,
+      "Def": 171
+    },
+    "buddy": 3,
+    "types": [
+      "Bug"
+    ]
+  },
+  "Roselia": {
+    "stats": {
+      "HP": 100,
+      "Atk": 186,
+      "Def": 148
+    },
+    "buddy": 3,
+    "types": [
+      "Grass",
+      "Poison"
+    ]
+  },
+  "Gulpin": {
+    "stats": {
+      "HP": 140,
+      "Atk": 80,
+      "Def": 99
+    },
+    "buddy": 1,
+    "types": [
+      "Poison"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Swalot",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Swalot": {
+    "stats": {
+      "HP": 200,
+      "Atk": 140,
+      "Def": 159
+    },
+    "buddy": 1,
+    "types": [
+      "Poison"
+    ],
+    "evolution": {
+      "from": "Gulpin"
+    }
+  },
+  "Carvanha": {
+    "stats": {
+      "HP": 90,
+      "Atk": 171,
+      "Def": 39
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Sharpedo",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Sharpedo": {
+    "stats": {
+      "HP": 140,
+      "Atk": 243,
+      "Def": 83
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "evolution": {
+      "from": "Carvanha"
+    }
+  },
+  "Wailmer": {
+    "stats": {
+      "HP": 260,
+      "Atk": 136,
+      "Def": 68
+    },
+    "buddy": 1,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Wailord",
+          "candy": 400
+        }
+      ]
+    }
+  },
+  "Wailord": {
+    "stats": {
+      "HP": 340,
+      "Atk": 175,
+      "Def": 87
+    },
+    "buddy": 1,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "from": "Wailmer"
+    }
+  },
+  "Numel": {
+    "stats": {
+      "HP": 120,
+      "Atk": 119,
+      "Def": 82
+    },
+    "buddy": 3,
+    "types": [
+      "Fire",
+      "Ground"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Camerupt",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Camerupt": {
+    "stats": {
+      "HP": 140,
+      "Atk": 194,
+      "Def": 139
+    },
+    "buddy": 3,
+    "types": [
+      "Fire",
+      "Ground"
+    ],
+    "evolution": {
+      "from": "Numel"
+    }
+  },
+  "Torkoal": {
+    "stats": {
+      "HP": 140,
+      "Atk": 151,
+      "Def": 234
+    },
+    "buddy": 3,
+    "types": [
+      "Fire"
+    ]
+  },
+  "Spoink": {
+    "stats": {
+      "HP": 120,
+      "Atk": 125,
+      "Def": 145
+    },
+    "buddy": 1,
+    "types": [
+      "Psychic"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Grumpig",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Grumpig": {
+    "stats": {
+      "HP": 160,
+      "Atk": 171,
+      "Def": 211
+    },
+    "buddy": 1,
+    "types": [
+      "Psychic"
+    ],
+    "evolution": {
+      "from": "Spoink"
+    }
+  },
+  "Spinda": {
+    "stats": {
+      "HP": 120,
+      "Atk": 116,
+      "Def": 116
+    },
+    "buddy": 3,
+    "types": [
+      "Normal"
+    ]
+  },
+  "Trapinch": {
+    "stats": {
+      "HP": 90,
+      "Atk": 162,
+      "Def": 78
+    },
+    "buddy": 5,
+    "types": [
+      "Ground"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Vibrava",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Vibrava": {
+    "stats": {
+      "HP": 100,
+      "Atk": 134,
+      "Def": 99
+    },
+    "buddy": 5,
+    "types": [
+      "Ground",
+      "Dragon"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Flygon",
+          "candy": 100
+        }
+      ],
+      "from": "Trapinch"
+    }
+  },
+  "Flygon": {
+    "stats": {
+      "HP": 160,
+      "Atk": 205,
+      "Def": 168
+    },
+    "buddy": 5,
+    "types": [
+      "Ground",
+      "Dragon"
+    ],
+    "evolution": {
+      "from": "Vibrava"
+    }
+  },
+  "Cacnea": {
+    "stats": {
+      "HP": 100,
+      "Atk": 156,
+      "Def": 74
+    },
+    "buddy": 3,
+    "types": [
+      "Grass"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Cacturne",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Cacturne": {
+    "stats": {
+      "HP": 140,
+      "Atk": 221,
+      "Def": 115
+    },
+    "buddy": 3,
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "evolution": {
+      "from": "Cacnea"
+    }
+  },
+  "Swablu": {
+    "stats": {
+      "HP": 90,
+      "Atk": 76,
+      "Def": 139
+    },
+    "buddy": 1,
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Altaria",
+          "candy": 400
+        }
+      ]
+    }
+  },
+  "Altaria": {
+    "stats": {
+      "HP": 150,
+      "Atk": 141,
+      "Def": 208
+    },
+    "buddy": 1,
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "evolution": {
+      "from": "Swablu"
+    }
+  },
+  "Zangoose": {
+    "stats": {
+      "HP": 146,
+      "Atk": 222,
+      "Def": 124
+    },
+    "buddy": 3,
+    "types": [
+      "Normal"
+    ]
+  },
+  "Seviper": {
+    "stats": {
+      "HP": 146,
+      "Atk": 196,
+      "Def": 118
+    },
+    "buddy": 3,
+    "types": [
+      "Poison"
+    ]
+  },
+  "Lunatone": {
+    "stats": {
+      "HP": 180,
+      "Atk": 178,
+      "Def": 163
+    },
+    "buddy": 3,
+    "types": [
+      "Rock",
+      "Psychic"
+    ]
+  },
+  "Solrock": {
+    "stats": {
+      "HP": 180,
+      "Atk": 178,
+      "Def": 163
+    },
+    "buddy": 3,
+    "types": [
+      "Rock",
+      "Psychic"
+    ]
+  },
+  "Barboach": {
+    "stats": {
+      "HP": 100,
+      "Atk": 93,
+      "Def": 83
+    },
+    "buddy": 1,
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Whiscash",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Whiscash": {
+    "stats": {
+      "HP": 220,
+      "Atk": 151,
+      "Def": 142
+    },
+    "buddy": 1,
+    "types": [
+      "Water",
+      "Ground"
+    ],
+    "evolution": {
+      "from": "Barboach"
+    }
+  },
+  "Corphish": {
+    "stats": {
+      "HP": 86,
+      "Atk": 141,
+      "Def": 113
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Crawdaunt",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Crawdaunt": {
+    "stats": {
+      "HP": 126,
+      "Atk": 224,
+      "Def": 156
+    },
+    "buddy": 3,
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "evolution": {
+      "from": "Corphish"
+    }
+  },
+  "Baltoy": {
+    "stats": {
+      "HP": 80,
+      "Atk": 77,
+      "Def": 131
+    },
+    "buddy": 3,
+    "types": [
+      "Ground",
+      "Psychic"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Claydol",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Claydol": {
+    "stats": {
+      "HP": 120,
+      "Atk": 140,
+      "Def": 236
+    },
+    "buddy": 3,
+    "types": [
+      "Ground",
+      "Psychic"
+    ],
+    "evolution": {
+      "from": "Baltoy"
+    }
+  },
+  "Lileep": {
+    "stats": {
+      "HP": 132,
+      "Atk": 105,
+      "Def": 154
+    },
+    "buddy": 3,
+    "types": [
+      "Rock",
+      "Grass"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Cradily",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Cradily": {
+    "stats": {
+      "HP": 172,
+      "Atk": 152,
+      "Def": 198
+    },
+    "buddy": 3,
+    "types": [
+      "Rock",
+      "Grass"
+    ],
+    "evolution": {
+      "from": "Lileep"
+    }
+  },
+  "Anorith": {
+    "stats": {
+      "HP": 90,
+      "Atk": 176,
+      "Def": 100
+    },
+    "buddy": 3,
+    "types": [
+      "Rock",
+      "Bug"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Armaldo",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Armaldo": {
+    "stats": {
+      "HP": 150,
+      "Atk": 222,
+      "Def": 183
+    },
+    "buddy": 3,
+    "types": [
+      "Rock",
+      "Bug"
+    ],
+    "evolution": {
+      "from": "Anorith"
+    }
+  },
+  "Feebas": {
+    "stats": {
+      "HP": 40,
+      "Atk": 29,
+      "Def": 102
+    },
+    "buddy": 5,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Milotic",
+          "candy": 100
+        }
+      ]
+    }
+  },
+  "Milotic": {
+    "stats": {
+      "HP": 190,
+      "Atk": 192,
+      "Def": 242
+    },
+    "buddy": 5,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "from": "Feebas"
+    }
+  },
+  "Castform": {
+    "stats": {
+      "HP": 140,
+      "Atk": 139,
+      "Def": 139
+    },
+    "buddy": 5,
+    "types": [
+      "Fire"
+    ]
+  },
+  "Kecleon": {
+    "stats": {
+      "HP": 120,
+      "Atk": 161,
+      "Def": 212
+    },
+    "buddy": 5,
+    "types": [
+      "Normal"
+    ]
+  },
+  "Shuppet": {
+    "stats": {
+      "HP": 88,
+      "Atk": 138,
+      "Def": 66
+    },
+    "buddy": 3,
+    "types": [
+      "Ghost"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Banette",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Banette": {
+    "stats": {
+      "HP": 128,
+      "Atk": 218,
+      "Def": 127
+    },
+    "buddy": 3,
+    "types": [
+      "Ghost"
+    ],
+    "evolution": {
+      "from": "Shuppet"
+    }
+  },
+  "Duskull": {
+    "stats": {
+      "HP": 40,
+      "Atk": 70,
+      "Def": 162
+    },
+    "buddy": 3,
+    "types": [
+      "Ghost"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Dusclops",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Dusclops": {
+    "stats": {
+      "HP": 80,
+      "Atk": 124,
+      "Def": 234
+    },
+    "buddy": 3,
+    "types": [
+      "Ghost"
+    ],
+    "evolution": {
+      "from": "Duskull"
+    }
+  },
+  "Tropius": {
+    "stats": {
+      "HP": 198,
+      "Atk": 136,
+      "Def": 165
+    },
+    "buddy": 5,
+    "types": [
+      "Grass",
+      "Flying"
+    ]
+  },
+  "Chimecho": {
+    "stats": {
+      "HP": 150,
+      "Atk": 175,
+      "Def": 174
+    },
+    "buddy": 5,
+    "types": [
+      "Psychic"
+    ]
+  },
+  "Absol": {
+    "stats": {
+      "HP": 130,
+      "Atk": 246,
+      "Def": 120
+    },
+    "buddy": 5,
+    "types": [
+      "Dark"
+    ]
+  },
+  "Wynaut": {
+    "stats": {
+      "HP": 190,
+      "Atk": 41,
+      "Def": 86
+    },
+    "buddy": 3,
+    "types": [
+      "Psychic"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Wobbuffet",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Snorunt": {
+    "stats": {
+      "HP": 100,
+      "Atk": 95,
+      "Def": 95
+    },
+    "buddy": 3,
+    "types": [
+      "Ice"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Glalie",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Glalie": {
+    "stats": {
+      "HP": 160,
+      "Atk": 162,
+      "Def": 162
+    },
+    "buddy": 3,
+    "types": [
+      "Ice"
+    ],
+    "evolution": {
+      "from": "Snorunt"
+    }
+  },
+  "Spheal": {
+    "stats": {
+      "HP": 140,
+      "Atk": 95,
+      "Def": 90
+    },
+    "buddy": 3,
+    "types": [
+      "Ice",
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Sealeo",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Sealeo": {
+    "stats": {
+      "HP": 180,
+      "Atk": 137,
+      "Def": 132
+    },
+    "buddy": 3,
+    "types": [
+      "Ice",
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Walrein",
+          "candy": 100
+        }
+      ],
+      "from": "Spheal"
+    }
+  },
+  "Walrein": {
+    "stats": {
+      "HP": 220,
+      "Atk": 182,
+      "Def": 176
+    },
+    "buddy": 3,
+    "types": [
+      "Ice",
+      "Water"
+    ],
+    "evolution": {
+      "from": "Sealeo"
+    }
+  },
+  "Clamperl": {
+    "stats": {
+      "HP": 70,
+      "Atk": 133,
+      "Def": 149
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Huntail",
+          "candy": 50
+        },
+        {
+          "name": "Gorebyss",
+          "candy": 50
+        }
+      ]
+    }
+  },
+  "Huntail": {
+    "stats": {
+      "HP": 110,
+      "Atk": 197,
+      "Def": 194
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "from": "Clamperl"
+    }
+  },
+  "Gorebyss": {
+    "stats": {
+      "HP": 110,
+      "Atk": 211,
+      "Def": 194
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ],
+    "evolution": {
+      "from": "Clamperl"
+    }
+  },
+  "Relicanth": {
+    "stats": {
+      "HP": 200,
+      "Atk": 162,
+      "Def": 234
+    },
+    "buddy": 5,
+    "types": [
+      "Water",
+      "Rock"
+    ]
+  },
+  "Luvdisc": {
+    "stats": {
+      "HP": 86,
+      "Atk": 81,
+      "Def": 134
+    },
+    "buddy": 3,
+    "types": [
+      "Water"
+    ]
+  },
+  "Bagon": {
+    "stats": {
+      "HP": 90,
+      "Atk": 134,
+      "Def": 107
+    },
+    "buddy": 5,
+    "types": [
+      "Dragon"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Shelgon",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Shelgon": {
+    "stats": {
+      "HP": 130,
+      "Atk": 172,
+      "Def": 179
+    },
+    "buddy": 5,
+    "types": [
+      "Dragon"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Salamence",
+          "candy": 100
+        }
+      ],
+      "from": "Bagon"
+    }
+  },
+  "Salamence": {
+    "stats": {
+      "HP": 190,
+      "Atk": 277,
+      "Def": 168
+    },
+    "buddy": 5,
+    "types": [
+      "Dragon",
+      "Flying"
+    ],
+    "evolution": {
+      "from": "Shelgon"
+    }
+  },
+  "Beldum": {
+    "stats": {
+      "HP": 80,
+      "Atk": 96,
+      "Def": 141
+    },
+    "buddy": 5,
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Metang",
+          "candy": 25
+        }
+      ]
+    }
+  },
+  "Metang": {
+    "stats": {
+      "HP": 120,
+      "Atk": 138,
+      "Def": 185
+    },
+    "buddy": 5,
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "evolution": {
+      "to": [
+        {
+          "name": "Metagross",
+          "candy": 100
+        }
+      ],
+      "from": "Beldum"
+    }
+  },
+  "Metagross": {
+    "stats": {
+      "HP": 160,
+      "Atk": 257,
+      "Def": 247
+    },
+    "buddy": 5,
+    "types": [
+      "Steel",
+      "Psychic"
+    ],
+    "evolution": {
+      "from": "Metang"
+    }
+  },
+  "Regirock": {
+    "stats": {
+      "HP": 160,
+      "Atk": 179,
+      "Def": 356
+    },
+    "buddy": 20,
+    "types": [
+      "Rock"
+    ]
+  },
+  "Regice": {
+    "stats": {
+      "HP": 160,
+      "Atk": 179,
+      "Def": 356
+    },
+    "buddy": 20,
+    "types": [
+      "Ice"
+    ]
+  },
+  "Registeel": {
+    "stats": {
+      "HP": 160,
+      "Atk": 143,
+      "Def": 285
+    },
+    "buddy": 20,
+    "types": [
+      "Steel"
+    ]
+  },
+  "Latias": {
+    "stats": {
+      "HP": 160,
+      "Atk": 228,
+      "Def": 268
+    },
+    "buddy": 20,
+    "types": [
+      "Dragon",
+      "Psychic"
+    ]
+  },
+  "Latios": {
+    "stats": {
+      "HP": 160,
+      "Atk": 268,
+      "Def": 228
+    },
+    "buddy": 20,
+    "types": [
+      "Dragon",
+      "Psychic"
+    ]
+  },
+  "Kyogre": {
+    "stats": {
+      "HP": 182,
+      "Atk": 270,
+      "Def": 251
+    },
+    "buddy": 20,
+    "types": [
+      "Water"
+    ]
+  },
+  "Groudon": {
+    "stats": {
+      "HP": 182,
+      "Atk": 270,
+      "Def": 251
+    },
+    "buddy": 20,
+    "types": [
+      "Ground"
+    ]
+  },
+  "Rayquaza": {
+    "stats": {
+      "HP": 191,
+      "Atk": 284,
+      "Def": 170
+    },
+    "buddy": 20,
+    "types": [
+      "Dragon",
+      "Flying"
+    ]
+  },
+  "Jirachi": {
+    "stats": {
+      "HP": 200,
+      "Atk": 210,
+      "Def": 210
+    },
+    "buddy": 20,
+    "types": [
+      "Steel",
+      "Psychic"
+    ]
+  },
+  "Deoxys": {
+    "stats": {
+      "HP": 100,
+      "Atk": 230,
+      "Def": 218
+    },
+    "buddy": 20,
+    "types": [
+      "Psychic"
+    ]
+  }
+}

@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+# scripts for data generation
+data/scripts
+
+# DS_Store
+.DS_Store
