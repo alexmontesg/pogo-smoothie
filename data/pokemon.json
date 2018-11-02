@@ -1,5 +1,6 @@
 {
   "Bulbasaur": {
+    "name": "Bulbasaur",
     "stats": {
       "HP": 90,
       "Atk": 118,
@@ -20,6 +21,7 @@
     }
   },
   "Ivysaur": {
+    "name": "Ivysaur",
     "stats": {
       "HP": 120,
       "Atk": 151,
@@ -41,6 +43,7 @@
     }
   },
   "Venusaur": {
+    "name": "Venusaur",
     "stats": {
       "HP": 160,
       "Atk": 198,
@@ -56,6 +59,7 @@
     }
   },
   "Charmander": {
+    "name": "Charmander",
     "stats": {
       "HP": 78,
       "Atk": 116,
@@ -75,6 +79,7 @@
     }
   },
   "Charmeleon": {
+    "name": "Charmeleon",
     "stats": {
       "HP": 116,
       "Atk": 158,
@@ -95,6 +100,7 @@
     }
   },
   "Charizard": {
+    "name": "Charizard",
     "stats": {
       "HP": 156,
       "Atk": 223,
@@ -110,6 +116,7 @@
     }
   },
   "Squirtle": {
+    "name": "Squirtle",
     "stats": {
       "HP": 88,
       "Atk": 94,
@@ -129,6 +136,7 @@
     }
   },
   "Wartortle": {
+    "name": "Wartortle",
     "stats": {
       "HP": 118,
       "Atk": 126,
@@ -149,6 +157,7 @@
     }
   },
   "Blastoise": {
+    "name": "Blastoise",
     "stats": {
       "HP": 158,
       "Atk": 171,
@@ -163,6 +172,7 @@
     }
   },
   "Caterpie": {
+    "name": "Caterpie",
     "stats": {
       "HP": 90,
       "Atk": 55,
@@ -182,6 +192,7 @@
     }
   },
   "Metapod": {
+    "name": "Metapod",
     "stats": {
       "HP": 100,
       "Atk": 45,
@@ -202,6 +213,7 @@
     }
   },
   "Butterfree": {
+    "name": "Butterfree",
     "stats": {
       "HP": 120,
       "Atk": 167,
@@ -217,6 +229,7 @@
     }
   },
   "Weedle": {
+    "name": "Weedle",
     "stats": {
       "HP": 80,
       "Atk": 63,
@@ -237,6 +250,7 @@
     }
   },
   "Kakuna": {
+    "name": "Kakuna",
     "stats": {
       "HP": 90,
       "Atk": 46,
@@ -258,6 +272,7 @@
     }
   },
   "Beedrill": {
+    "name": "Beedrill",
     "stats": {
       "HP": 130,
       "Atk": 169,
@@ -273,6 +288,7 @@
     }
   },
   "Pidgey": {
+    "name": "Pidgey",
     "stats": {
       "HP": 80,
       "Atk": 85,
@@ -293,6 +309,7 @@
     }
   },
   "Pidgeotto": {
+    "name": "Pidgeotto",
     "stats": {
       "HP": 126,
       "Atk": 117,
@@ -314,6 +331,7 @@
     }
   },
   "Pidgeot": {
+    "name": "Pidgeot",
     "stats": {
       "HP": 166,
       "Atk": 166,
@@ -329,6 +347,7 @@
     }
   },
   "Rattata": {
+    "name": "Rattata",
     "stats": {
       "HP": 60,
       "Atk": 103,
@@ -348,6 +367,7 @@
     }
   },
   "Raticate": {
+    "name": "Raticate",
     "stats": {
       "HP": 110,
       "Atk": 161,
@@ -362,6 +382,7 @@
     }
   },
   "Spearow": {
+    "name": "Spearow",
     "stats": {
       "HP": 80,
       "Atk": 112,
@@ -382,6 +403,7 @@
     }
   },
   "Fearow": {
+    "name": "Fearow",
     "stats": {
       "HP": 130,
       "Atk": 182,
@@ -397,6 +419,7 @@
     }
   },
   "Ekans": {
+    "name": "Ekans",
     "stats": {
       "HP": 70,
       "Atk": 110,
@@ -416,6 +439,7 @@
     }
   },
   "Arbok": {
+    "name": "Arbok",
     "stats": {
       "HP": 120,
       "Atk": 167,
@@ -430,6 +454,7 @@
     }
   },
   "Pikachu": {
+    "name": "Pikachu",
     "stats": {
       "HP": 70,
       "Atk": 112,
@@ -450,6 +475,7 @@
     }
   },
   "Raichu": {
+    "name": "Raichu",
     "stats": {
       "HP": 120,
       "Atk": 193,
@@ -464,6 +490,7 @@
     }
   },
   "Sandshrew": {
+    "name": "Sandshrew",
     "stats": {
       "HP": 100,
       "Atk": 126,
@@ -483,6 +510,7 @@
     }
   },
   "Sandslash": {
+    "name": "Sandslash",
     "stats": {
       "HP": 150,
       "Atk": 182,
@@ -497,6 +525,7 @@
     }
   },
   "Nidoran_female": {
+    "name": "Nidoran_female",
     "stats": {
       "HP": 110,
       "Atk": 86,
@@ -516,6 +545,7 @@
     }
   },
   "Nidorina": {
+    "name": "Nidorina",
     "stats": {
       "HP": 140,
       "Atk": 117,
@@ -536,6 +566,7 @@
     }
   },
   "Nidoqueen": {
+    "name": "Nidoqueen",
     "stats": {
       "HP": 180,
       "Atk": 180,
@@ -551,6 +582,7 @@
     }
   },
   "Nidoran_male": {
+    "name": "Nidoran_male",
     "stats": {
       "HP": 92,
       "Atk": 105,
@@ -570,6 +602,7 @@
     }
   },
   "Nidorino": {
+    "name": "Nidorino",
     "stats": {
       "HP": 122,
       "Atk": 137,
@@ -590,6 +623,7 @@
     }
   },
   "Nidoking": {
+    "name": "Nidoking",
     "stats": {
       "HP": 162,
       "Atk": 204,
@@ -605,6 +639,7 @@
     }
   },
   "Clefairy": {
+    "name": "Clefairy",
     "stats": {
       "HP": 140,
       "Atk": 107,
@@ -625,6 +660,7 @@
     }
   },
   "Clefable": {
+    "name": "Clefable",
     "stats": {
       "HP": 190,
       "Atk": 178,
@@ -639,6 +675,7 @@
     }
   },
   "Vulpix": {
+    "name": "Vulpix",
     "stats": {
       "HP": 76,
       "Atk": 96,
@@ -658,6 +695,7 @@
     }
   },
   "Ninetales": {
+    "name": "Ninetales",
     "stats": {
       "HP": 146,
       "Atk": 169,
@@ -672,6 +710,7 @@
     }
   },
   "Jigglypuff": {
+    "name": "Jigglypuff",
     "stats": {
       "HP": 230,
       "Atk": 80,
@@ -693,6 +732,7 @@
     }
   },
   "Wigglytuff": {
+    "name": "Wigglytuff",
     "stats": {
       "HP": 280,
       "Atk": 156,
@@ -708,6 +748,7 @@
     }
   },
   "Zubat": {
+    "name": "Zubat",
     "stats": {
       "HP": 80,
       "Atk": 83,
@@ -728,6 +769,7 @@
     }
   },
   "Golbat": {
+    "name": "Golbat",
     "stats": {
       "HP": 150,
       "Atk": 161,
@@ -749,6 +791,7 @@
     }
   },
   "Oddish": {
+    "name": "Oddish",
     "stats": {
       "HP": 90,
       "Atk": 131,
@@ -769,6 +812,7 @@
     }
   },
   "Gloom": {
+    "name": "Gloom",
     "stats": {
       "HP": 120,
       "Atk": 153,
@@ -794,6 +838,7 @@
     }
   },
   "Vileplume": {
+    "name": "Vileplume",
     "stats": {
       "HP": 150,
       "Atk": 202,
@@ -809,6 +854,7 @@
     }
   },
   "Paras": {
+    "name": "Paras",
     "stats": {
       "HP": 70,
       "Atk": 121,
@@ -829,6 +875,7 @@
     }
   },
   "Parasect": {
+    "name": "Parasect",
     "stats": {
       "HP": 120,
       "Atk": 165,
@@ -844,6 +891,7 @@
     }
   },
   "Venonat": {
+    "name": "Venonat",
     "stats": {
       "HP": 120,
       "Atk": 100,
@@ -864,6 +912,7 @@
     }
   },
   "Venomoth": {
+    "name": "Venomoth",
     "stats": {
       "HP": 140,
       "Atk": 179,
@@ -879,6 +928,7 @@
     }
   },
   "Diglett": {
+    "name": "Diglett",
     "stats": {
       "HP": 20,
       "Atk": 109,
@@ -898,6 +948,7 @@
     }
   },
   "Dugtrio": {
+    "name": "Dugtrio",
     "stats": {
       "HP": 70,
       "Atk": 167,
@@ -912,6 +963,7 @@
     }
   },
   "Meowth": {
+    "name": "Meowth",
     "stats": {
       "HP": 80,
       "Atk": 92,
@@ -931,6 +983,7 @@
     }
   },
   "Persian": {
+    "name": "Persian",
     "stats": {
       "HP": 130,
       "Atk": 150,
@@ -945,6 +998,7 @@
     }
   },
   "Psyduck": {
+    "name": "Psyduck",
     "stats": {
       "HP": 100,
       "Atk": 122,
@@ -964,6 +1018,7 @@
     }
   },
   "Golduck": {
+    "name": "Golduck",
     "stats": {
       "HP": 160,
       "Atk": 191,
@@ -978,6 +1033,7 @@
     }
   },
   "Mankey": {
+    "name": "Mankey",
     "stats": {
       "HP": 80,
       "Atk": 148,
@@ -997,6 +1053,7 @@
     }
   },
   "Primeape": {
+    "name": "Primeape",
     "stats": {
       "HP": 130,
       "Atk": 207,
@@ -1011,6 +1068,7 @@
     }
   },
   "Growlithe": {
+    "name": "Growlithe",
     "stats": {
       "HP": 110,
       "Atk": 136,
@@ -1030,6 +1088,7 @@
     }
   },
   "Arcanine": {
+    "name": "Arcanine",
     "stats": {
       "HP": 180,
       "Atk": 227,
@@ -1044,6 +1103,7 @@
     }
   },
   "Poliwag": {
+    "name": "Poliwag",
     "stats": {
       "HP": 80,
       "Atk": 101,
@@ -1063,6 +1123,7 @@
     }
   },
   "Poliwhirl": {
+    "name": "Poliwhirl",
     "stats": {
       "HP": 130,
       "Atk": 130,
@@ -1087,6 +1148,7 @@
     }
   },
   "Poliwrath": {
+    "name": "Poliwrath",
     "stats": {
       "HP": 180,
       "Atk": 182,
@@ -1102,6 +1164,7 @@
     }
   },
   "Abra": {
+    "name": "Abra",
     "stats": {
       "HP": 50,
       "Atk": 195,
@@ -1121,6 +1184,7 @@
     }
   },
   "Kadabra": {
+    "name": "Kadabra",
     "stats": {
       "HP": 80,
       "Atk": 232,
@@ -1141,6 +1205,7 @@
     }
   },
   "Alakazam": {
+    "name": "Alakazam",
     "stats": {
       "HP": 110,
       "Atk": 271,
@@ -1155,6 +1220,7 @@
     }
   },
   "Machop": {
+    "name": "Machop",
     "stats": {
       "HP": 140,
       "Atk": 137,
@@ -1174,6 +1240,7 @@
     }
   },
   "Machoke": {
+    "name": "Machoke",
     "stats": {
       "HP": 160,
       "Atk": 177,
@@ -1194,6 +1261,7 @@
     }
   },
   "Machamp": {
+    "name": "Machamp",
     "stats": {
       "HP": 180,
       "Atk": 234,
@@ -1208,6 +1276,7 @@
     }
   },
   "Bellsprout": {
+    "name": "Bellsprout",
     "stats": {
       "HP": 100,
       "Atk": 139,
@@ -1228,6 +1297,7 @@
     }
   },
   "Weepinbell": {
+    "name": "Weepinbell",
     "stats": {
       "HP": 130,
       "Atk": 172,
@@ -1249,6 +1319,7 @@
     }
   },
   "Victreebel": {
+    "name": "Victreebel",
     "stats": {
       "HP": 160,
       "Atk": 207,
@@ -1264,6 +1335,7 @@
     }
   },
   "Tentacool": {
+    "name": "Tentacool",
     "stats": {
       "HP": 80,
       "Atk": 97,
@@ -1284,6 +1356,7 @@
     }
   },
   "Tentacruel": {
+    "name": "Tentacruel",
     "stats": {
       "HP": 160,
       "Atk": 166,
@@ -1299,6 +1372,7 @@
     }
   },
   "Geodude": {
+    "name": "Geodude",
     "stats": {
       "HP": 80,
       "Atk": 132,
@@ -1319,6 +1393,7 @@
     }
   },
   "Graveler": {
+    "name": "Graveler",
     "stats": {
       "HP": 110,
       "Atk": 164,
@@ -1340,6 +1415,7 @@
     }
   },
   "Golem": {
+    "name": "Golem",
     "stats": {
       "HP": 160,
       "Atk": 211,
@@ -1355,6 +1431,7 @@
     }
   },
   "Ponyta": {
+    "name": "Ponyta",
     "stats": {
       "HP": 100,
       "Atk": 170,
@@ -1374,6 +1451,7 @@
     }
   },
   "Rapidash": {
+    "name": "Rapidash",
     "stats": {
       "HP": 130,
       "Atk": 207,
@@ -1388,6 +1466,7 @@
     }
   },
   "Slowpoke": {
+    "name": "Slowpoke",
     "stats": {
       "HP": 180,
       "Atk": 109,
@@ -1412,6 +1491,7 @@
     }
   },
   "Slowbro": {
+    "name": "Slowbro",
     "stats": {
       "HP": 190,
       "Atk": 177,
@@ -1427,6 +1507,7 @@
     }
   },
   "Magnemite": {
+    "name": "Magnemite",
     "stats": {
       "HP": 50,
       "Atk": 165,
@@ -1447,6 +1528,7 @@
     }
   },
   "Magneton": {
+    "name": "Magneton",
     "stats": {
       "HP": 100,
       "Atk": 223,
@@ -1462,6 +1544,7 @@
     }
   },
   "Farfetchd": {
+    "name": "Farfetchd",
     "stats": {
       "HP": 104,
       "Atk": 124,
@@ -1474,6 +1557,7 @@
     ]
   },
   "Doduo": {
+    "name": "Doduo",
     "stats": {
       "HP": 70,
       "Atk": 158,
@@ -1494,6 +1578,7 @@
     }
   },
   "Dodrio": {
+    "name": "Dodrio",
     "stats": {
       "HP": 120,
       "Atk": 218,
@@ -1509,6 +1594,7 @@
     }
   },
   "Seel": {
+    "name": "Seel",
     "stats": {
       "HP": 130,
       "Atk": 85,
@@ -1528,6 +1614,7 @@
     }
   },
   "Dewgong": {
+    "name": "Dewgong",
     "stats": {
       "HP": 180,
       "Atk": 139,
@@ -1543,6 +1630,7 @@
     }
   },
   "Grimer": {
+    "name": "Grimer",
     "stats": {
       "HP": 160,
       "Atk": 135,
@@ -1562,6 +1650,7 @@
     }
   },
   "Muk": {
+    "name": "Muk",
     "stats": {
       "HP": 210,
       "Atk": 190,
@@ -1576,6 +1665,7 @@
     }
   },
   "Shellder": {
+    "name": "Shellder",
     "stats": {
       "HP": 60,
       "Atk": 116,
@@ -1595,6 +1685,7 @@
     }
   },
   "Cloyster": {
+    "name": "Cloyster",
     "stats": {
       "HP": 100,
       "Atk": 186,
@@ -1610,6 +1701,7 @@
     }
   },
   "Gastly": {
+    "name": "Gastly",
     "stats": {
       "HP": 60,
       "Atk": 186,
@@ -1630,6 +1722,7 @@
     }
   },
   "Haunter": {
+    "name": "Haunter",
     "stats": {
       "HP": 90,
       "Atk": 223,
@@ -1651,6 +1744,7 @@
     }
   },
   "Gengar": {
+    "name": "Gengar",
     "stats": {
       "HP": 120,
       "Atk": 261,
@@ -1666,6 +1760,7 @@
     }
   },
   "Onix": {
+    "name": "Onix",
     "stats": {
       "HP": 70,
       "Atk": 85,
@@ -1686,6 +1781,7 @@
     }
   },
   "Drowzee": {
+    "name": "Drowzee",
     "stats": {
       "HP": 120,
       "Atk": 89,
@@ -1705,6 +1801,7 @@
     }
   },
   "Hypno": {
+    "name": "Hypno",
     "stats": {
       "HP": 170,
       "Atk": 144,
@@ -1719,6 +1816,7 @@
     }
   },
   "Krabby": {
+    "name": "Krabby",
     "stats": {
       "HP": 60,
       "Atk": 181,
@@ -1738,6 +1836,7 @@
     }
   },
   "Kingler": {
+    "name": "Kingler",
     "stats": {
       "HP": 110,
       "Atk": 240,
@@ -1752,6 +1851,7 @@
     }
   },
   "Voltorb": {
+    "name": "Voltorb",
     "stats": {
       "HP": 80,
       "Atk": 109,
@@ -1771,6 +1871,7 @@
     }
   },
   "Electrode": {
+    "name": "Electrode",
     "stats": {
       "HP": 120,
       "Atk": 173,
@@ -1785,6 +1886,7 @@
     }
   },
   "Exeggcute": {
+    "name": "Exeggcute",
     "stats": {
       "HP": 120,
       "Atk": 107,
@@ -1805,6 +1907,7 @@
     }
   },
   "Exeggutor": {
+    "name": "Exeggutor",
     "stats": {
       "HP": 190,
       "Atk": 233,
@@ -1820,6 +1923,7 @@
     }
   },
   "Cubone": {
+    "name": "Cubone",
     "stats": {
       "HP": 100,
       "Atk": 90,
@@ -1839,6 +1943,7 @@
     }
   },
   "Marowak": {
+    "name": "Marowak",
     "stats": {
       "HP": 120,
       "Atk": 144,
@@ -1853,6 +1958,7 @@
     }
   },
   "Hitmonlee": {
+    "name": "Hitmonlee",
     "stats": {
       "HP": 100,
       "Atk": 224,
@@ -1867,6 +1973,7 @@
     }
   },
   "Hitmonchan": {
+    "name": "Hitmonchan",
     "stats": {
       "HP": 100,
       "Atk": 193,
@@ -1881,6 +1988,7 @@
     }
   },
   "Lickitung": {
+    "name": "Lickitung",
     "stats": {
       "HP": 180,
       "Atk": 108,
@@ -1892,6 +2000,7 @@
     ]
   },
   "Koffing": {
+    "name": "Koffing",
     "stats": {
       "HP": 80,
       "Atk": 119,
@@ -1911,6 +2020,7 @@
     }
   },
   "Weezing": {
+    "name": "Weezing",
     "stats": {
       "HP": 130,
       "Atk": 174,
@@ -1925,6 +2035,7 @@
     }
   },
   "Rhyhorn": {
+    "name": "Rhyhorn",
     "stats": {
       "HP": 160,
       "Atk": 140,
@@ -1945,6 +2056,7 @@
     }
   },
   "Rhydon": {
+    "name": "Rhydon",
     "stats": {
       "HP": 210,
       "Atk": 222,
@@ -1960,6 +2072,7 @@
     }
   },
   "Chansey": {
+    "name": "Chansey",
     "stats": {
       "HP": 500,
       "Atk": 60,
@@ -1979,6 +2092,7 @@
     }
   },
   "Tangela": {
+    "name": "Tangela",
     "stats": {
       "HP": 130,
       "Atk": 183,
@@ -1990,6 +2104,7 @@
     ]
   },
   "Kangaskhan": {
+    "name": "Kangaskhan",
     "stats": {
       "HP": 210,
       "Atk": 181,
@@ -2001,6 +2116,7 @@
     ]
   },
   "Horsea": {
+    "name": "Horsea",
     "stats": {
       "HP": 60,
       "Atk": 129,
@@ -2020,6 +2136,7 @@
     }
   },
   "Seadra": {
+    "name": "Seadra",
     "stats": {
       "HP": 110,
       "Atk": 187,
@@ -2040,6 +2157,7 @@
     }
   },
   "Goldeen": {
+    "name": "Goldeen",
     "stats": {
       "HP": 90,
       "Atk": 123,
@@ -2059,6 +2177,7 @@
     }
   },
   "Seaking": {
+    "name": "Seaking",
     "stats": {
       "HP": 160,
       "Atk": 175,
@@ -2073,6 +2192,7 @@
     }
   },
   "Staryu": {
+    "name": "Staryu",
     "stats": {
       "HP": 60,
       "Atk": 137,
@@ -2092,6 +2212,7 @@
     }
   },
   "Starmie": {
+    "name": "Starmie",
     "stats": {
       "HP": 120,
       "Atk": 210,
@@ -2107,6 +2228,7 @@
     }
   },
   "Mr_mime": {
+    "name": "Mr_mime",
     "stats": {
       "HP": 80,
       "Atk": 192,
@@ -2119,6 +2241,7 @@
     ]
   },
   "Scyther": {
+    "name": "Scyther",
     "stats": {
       "HP": 140,
       "Atk": 218,
@@ -2139,6 +2262,7 @@
     }
   },
   "Jynx": {
+    "name": "Jynx",
     "stats": {
       "HP": 130,
       "Atk": 223,
@@ -2154,6 +2278,7 @@
     }
   },
   "Electabuzz": {
+    "name": "Electabuzz",
     "stats": {
       "HP": 130,
       "Atk": 198,
@@ -2168,6 +2293,7 @@
     }
   },
   "Magmar": {
+    "name": "Magmar",
     "stats": {
       "HP": 130,
       "Atk": 206,
@@ -2182,6 +2308,7 @@
     }
   },
   "Pinsir": {
+    "name": "Pinsir",
     "stats": {
       "HP": 130,
       "Atk": 238,
@@ -2193,6 +2320,7 @@
     ]
   },
   "Tauros": {
+    "name": "Tauros",
     "stats": {
       "HP": 150,
       "Atk": 198,
@@ -2204,6 +2332,7 @@
     ]
   },
   "Magikarp": {
+    "name": "Magikarp",
     "stats": {
       "HP": 40,
       "Atk": 29,
@@ -2223,6 +2352,7 @@
     }
   },
   "Gyarados": {
+    "name": "Gyarados",
     "stats": {
       "HP": 190,
       "Atk": 237,
@@ -2238,6 +2368,7 @@
     }
   },
   "Lapras": {
+    "name": "Lapras",
     "stats": {
       "HP": 260,
       "Atk": 165,
@@ -2250,6 +2381,7 @@
     ]
   },
   "Ditto": {
+    "name": "Ditto",
     "stats": {
       "HP": 96,
       "Atk": 91,
@@ -2261,6 +2393,7 @@
     ]
   },
   "Eevee": {
+    "name": "Eevee",
     "stats": {
       "HP": 110,
       "Atk": 104,
@@ -2296,6 +2429,7 @@
     }
   },
   "Vaporeon": {
+    "name": "Vaporeon",
     "stats": {
       "HP": 260,
       "Atk": 205,
@@ -2310,6 +2444,7 @@
     }
   },
   "Jolteon": {
+    "name": "Jolteon",
     "stats": {
       "HP": 130,
       "Atk": 232,
@@ -2324,6 +2459,7 @@
     }
   },
   "Flareon": {
+    "name": "Flareon",
     "stats": {
       "HP": 130,
       "Atk": 246,
@@ -2338,6 +2474,7 @@
     }
   },
   "Porygon": {
+    "name": "Porygon",
     "stats": {
       "HP": 130,
       "Atk": 153,
@@ -2357,6 +2494,7 @@
     }
   },
   "Omanyte": {
+    "name": "Omanyte",
     "stats": {
       "HP": 70,
       "Atk": 155,
@@ -2377,6 +2515,7 @@
     }
   },
   "Omastar": {
+    "name": "Omastar",
     "stats": {
       "HP": 140,
       "Atk": 207,
@@ -2392,6 +2531,7 @@
     }
   },
   "Kabuto": {
+    "name": "Kabuto",
     "stats": {
       "HP": 60,
       "Atk": 148,
@@ -2412,6 +2552,7 @@
     }
   },
   "Kabutops": {
+    "name": "Kabutops",
     "stats": {
       "HP": 120,
       "Atk": 220,
@@ -2427,6 +2568,7 @@
     }
   },
   "Aerodactyl": {
+    "name": "Aerodactyl",
     "stats": {
       "HP": 160,
       "Atk": 221,
@@ -2439,6 +2581,7 @@
     ]
   },
   "Snorlax": {
+    "name": "Snorlax",
     "stats": {
       "HP": 320,
       "Atk": 190,
@@ -2450,6 +2593,7 @@
     ]
   },
   "Articuno": {
+    "name": "Articuno",
     "stats": {
       "HP": 180,
       "Atk": 192,
@@ -2462,6 +2606,7 @@
     ]
   },
   "Zapdos": {
+    "name": "Zapdos",
     "stats": {
       "HP": 180,
       "Atk": 253,
@@ -2474,6 +2619,7 @@
     ]
   },
   "Moltres": {
+    "name": "Moltres",
     "stats": {
       "HP": 180,
       "Atk": 251,
@@ -2486,6 +2632,7 @@
     ]
   },
   "Dratini": {
+    "name": "Dratini",
     "stats": {
       "HP": 82,
       "Atk": 119,
@@ -2505,6 +2652,7 @@
     }
   },
   "Dragonair": {
+    "name": "Dragonair",
     "stats": {
       "HP": 122,
       "Atk": 163,
@@ -2525,6 +2673,7 @@
     }
   },
   "Dragonite": {
+    "name": "Dragonite",
     "stats": {
       "HP": 182,
       "Atk": 263,
@@ -2540,6 +2689,7 @@
     }
   },
   "Mewtwo": {
+    "name": "Mewtwo",
     "stats": {
       "HP": 193,
       "Atk": 300,
@@ -2551,6 +2701,7 @@
     ]
   },
   "Mew": {
+    "name": "Mew",
     "stats": {
       "HP": 200,
       "Atk": 210,
@@ -2562,6 +2713,7 @@
     ]
   },
   "Chikorita": {
+    "name": "Chikorita",
     "stats": {
       "HP": 90,
       "Atk": 92,
@@ -2581,6 +2733,7 @@
     }
   },
   "Bayleef": {
+    "name": "Bayleef",
     "stats": {
       "HP": 120,
       "Atk": 122,
@@ -2601,6 +2754,7 @@
     }
   },
   "Meganium": {
+    "name": "Meganium",
     "stats": {
       "HP": 160,
       "Atk": 168,
@@ -2615,6 +2769,7 @@
     }
   },
   "Cyndaquil": {
+    "name": "Cyndaquil",
     "stats": {
       "HP": 78,
       "Atk": 116,
@@ -2634,6 +2789,7 @@
     }
   },
   "Quilava": {
+    "name": "Quilava",
     "stats": {
       "HP": 116,
       "Atk": 158,
@@ -2654,6 +2810,7 @@
     }
   },
   "Typhlosion": {
+    "name": "Typhlosion",
     "stats": {
       "HP": 156,
       "Atk": 223,
@@ -2668,6 +2825,7 @@
     }
   },
   "Totodile": {
+    "name": "Totodile",
     "stats": {
       "HP": 100,
       "Atk": 117,
@@ -2687,6 +2845,7 @@
     }
   },
   "Croconaw": {
+    "name": "Croconaw",
     "stats": {
       "HP": 130,
       "Atk": 150,
@@ -2707,6 +2866,7 @@
     }
   },
   "Feraligatr": {
+    "name": "Feraligatr",
     "stats": {
       "HP": 170,
       "Atk": 205,
@@ -2721,6 +2881,7 @@
     }
   },
   "Sentret": {
+    "name": "Sentret",
     "stats": {
       "HP": 70,
       "Atk": 79,
@@ -2740,6 +2901,7 @@
     }
   },
   "Furret": {
+    "name": "Furret",
     "stats": {
       "HP": 170,
       "Atk": 148,
@@ -2754,6 +2916,7 @@
     }
   },
   "Hoothoot": {
+    "name": "Hoothoot",
     "stats": {
       "HP": 120,
       "Atk": 67,
@@ -2774,6 +2937,7 @@
     }
   },
   "Noctowl": {
+    "name": "Noctowl",
     "stats": {
       "HP": 200,
       "Atk": 145,
@@ -2789,6 +2953,7 @@
     }
   },
   "Ledyba": {
+    "name": "Ledyba",
     "stats": {
       "HP": 80,
       "Atk": 72,
@@ -2809,6 +2974,7 @@
     }
   },
   "Ledian": {
+    "name": "Ledian",
     "stats": {
       "HP": 110,
       "Atk": 107,
@@ -2824,6 +2990,7 @@
     }
   },
   "Spinarak": {
+    "name": "Spinarak",
     "stats": {
       "HP": 80,
       "Atk": 105,
@@ -2844,6 +3011,7 @@
     }
   },
   "Ariados": {
+    "name": "Ariados",
     "stats": {
       "HP": 140,
       "Atk": 161,
@@ -2859,6 +3027,7 @@
     }
   },
   "Crobat": {
+    "name": "Crobat",
     "stats": {
       "HP": 170,
       "Atk": 194,
@@ -2874,6 +3043,7 @@
     }
   },
   "Chinchou": {
+    "name": "Chinchou",
     "stats": {
       "HP": 150,
       "Atk": 106,
@@ -2894,6 +3064,7 @@
     }
   },
   "Lanturn": {
+    "name": "Lanturn",
     "stats": {
       "HP": 250,
       "Atk": 146,
@@ -2909,6 +3080,7 @@
     }
   },
   "Pichu": {
+    "name": "Pichu",
     "stats": {
       "HP": 40,
       "Atk": 77,
@@ -2928,6 +3100,7 @@
     }
   },
   "Cleffa": {
+    "name": "Cleffa",
     "stats": {
       "HP": 100,
       "Atk": 75,
@@ -2947,6 +3120,7 @@
     }
   },
   "Igglybuff": {
+    "name": "Igglybuff",
     "stats": {
       "HP": 180,
       "Atk": 69,
@@ -2967,6 +3141,7 @@
     }
   },
   "Togepi": {
+    "name": "Togepi",
     "stats": {
       "HP": 70,
       "Atk": 67,
@@ -2986,6 +3161,7 @@
     }
   },
   "Togetic": {
+    "name": "Togetic",
     "stats": {
       "HP": 110,
       "Atk": 139,
@@ -3001,6 +3177,7 @@
     }
   },
   "Natu": {
+    "name": "Natu",
     "stats": {
       "HP": 80,
       "Atk": 134,
@@ -3021,6 +3198,7 @@
     }
   },
   "Xatu": {
+    "name": "Xatu",
     "stats": {
       "HP": 130,
       "Atk": 192,
@@ -3036,6 +3214,7 @@
     }
   },
   "Mareep": {
+    "name": "Mareep",
     "stats": {
       "HP": 110,
       "Atk": 114,
@@ -3055,6 +3234,7 @@
     }
   },
   "Flaaffy": {
+    "name": "Flaaffy",
     "stats": {
       "HP": 140,
       "Atk": 145,
@@ -3075,6 +3255,7 @@
     }
   },
   "Ampharos": {
+    "name": "Ampharos",
     "stats": {
       "HP": 180,
       "Atk": 211,
@@ -3089,6 +3270,7 @@
     }
   },
   "Bellossom": {
+    "name": "Bellossom",
     "stats": {
       "HP": 150,
       "Atk": 169,
@@ -3103,6 +3285,7 @@
     }
   },
   "Marill": {
+    "name": "Marill",
     "stats": {
       "HP": 140,
       "Atk": 37,
@@ -3124,6 +3307,7 @@
     }
   },
   "Azumarill": {
+    "name": "Azumarill",
     "stats": {
       "HP": 200,
       "Atk": 112,
@@ -3139,6 +3323,7 @@
     }
   },
   "Sudowoodo": {
+    "name": "Sudowoodo",
     "stats": {
       "HP": 140,
       "Atk": 167,
@@ -3150,6 +3335,7 @@
     ]
   },
   "Politoed": {
+    "name": "Politoed",
     "stats": {
       "HP": 180,
       "Atk": 174,
@@ -3164,6 +3350,7 @@
     }
   },
   "Hoppip": {
+    "name": "Hoppip",
     "stats": {
       "HP": 70,
       "Atk": 67,
@@ -3184,6 +3371,7 @@
     }
   },
   "Skiploom": {
+    "name": "Skiploom",
     "stats": {
       "HP": 110,
       "Atk": 91,
@@ -3205,6 +3393,7 @@
     }
   },
   "Jumpluff": {
+    "name": "Jumpluff",
     "stats": {
       "HP": 150,
       "Atk": 118,
@@ -3220,6 +3409,7 @@
     }
   },
   "Aipom": {
+    "name": "Aipom",
     "stats": {
       "HP": 110,
       "Atk": 136,
@@ -3231,6 +3421,7 @@
     ]
   },
   "Sunkern": {
+    "name": "Sunkern",
     "stats": {
       "HP": 60,
       "Atk": 55,
@@ -3250,6 +3441,7 @@
     }
   },
   "Sunflora": {
+    "name": "Sunflora",
     "stats": {
       "HP": 150,
       "Atk": 185,
@@ -3264,6 +3456,7 @@
     }
   },
   "Yanma": {
+    "name": "Yanma",
     "stats": {
       "HP": 130,
       "Atk": 154,
@@ -3276,6 +3469,7 @@
     ]
   },
   "Wooper": {
+    "name": "Wooper",
     "stats": {
       "HP": 110,
       "Atk": 75,
@@ -3296,6 +3490,7 @@
     }
   },
   "Quagsire": {
+    "name": "Quagsire",
     "stats": {
       "HP": 190,
       "Atk": 152,
@@ -3311,6 +3506,7 @@
     }
   },
   "Espeon": {
+    "name": "Espeon",
     "stats": {
       "HP": 130,
       "Atk": 261,
@@ -3325,6 +3521,7 @@
     }
   },
   "Umbreon": {
+    "name": "Umbreon",
     "stats": {
       "HP": 190,
       "Atk": 126,
@@ -3339,6 +3536,7 @@
     }
   },
   "Murkrow": {
+    "name": "Murkrow",
     "stats": {
       "HP": 120,
       "Atk": 175,
@@ -3351,6 +3549,7 @@
     ]
   },
   "Slowking": {
+    "name": "Slowking",
     "stats": {
       "HP": 190,
       "Atk": 177,
@@ -3366,6 +3565,7 @@
     }
   },
   "Misdreavus": {
+    "name": "Misdreavus",
     "stats": {
       "HP": 120,
       "Atk": 167,
@@ -3377,6 +3577,7 @@
     ]
   },
   "Unown": {
+    "name": "Unown",
     "stats": {
       "HP": 96,
       "Atk": 136,
@@ -3388,6 +3589,7 @@
     ]
   },
   "Wobbuffet": {
+    "name": "Wobbuffet",
     "stats": {
       "HP": 380,
       "Atk": 60,
@@ -3402,6 +3604,7 @@
     }
   },
   "Girafarig": {
+    "name": "Girafarig",
     "stats": {
       "HP": 140,
       "Atk": 182,
@@ -3414,6 +3617,7 @@
     ]
   },
   "Pineco": {
+    "name": "Pineco",
     "stats": {
       "HP": 100,
       "Atk": 108,
@@ -3433,6 +3637,7 @@
     }
   },
   "Forretress": {
+    "name": "Forretress",
     "stats": {
       "HP": 150,
       "Atk": 161,
@@ -3448,6 +3653,7 @@
     }
   },
   "Dunsparce": {
+    "name": "Dunsparce",
     "stats": {
       "HP": 200,
       "Atk": 131,
@@ -3459,6 +3665,7 @@
     ]
   },
   "Gligar": {
+    "name": "Gligar",
     "stats": {
       "HP": 130,
       "Atk": 143,
@@ -3471,6 +3678,7 @@
     ]
   },
   "Steelix": {
+    "name": "Steelix",
     "stats": {
       "HP": 150,
       "Atk": 148,
@@ -3486,6 +3694,7 @@
     }
   },
   "Snubbull": {
+    "name": "Snubbull",
     "stats": {
       "HP": 120,
       "Atk": 137,
@@ -3505,6 +3714,7 @@
     }
   },
   "Granbull": {
+    "name": "Granbull",
     "stats": {
       "HP": 180,
       "Atk": 212,
@@ -3519,6 +3729,7 @@
     }
   },
   "Qwilfish": {
+    "name": "Qwilfish",
     "stats": {
       "HP": 130,
       "Atk": 184,
@@ -3531,6 +3742,7 @@
     ]
   },
   "Scizor": {
+    "name": "Scizor",
     "stats": {
       "HP": 140,
       "Atk": 236,
@@ -3546,6 +3758,7 @@
     }
   },
   "Shuckle": {
+    "name": "Shuckle",
     "stats": {
       "HP": 40,
       "Atk": 17,
@@ -3558,6 +3771,7 @@
     ]
   },
   "Heracross": {
+    "name": "Heracross",
     "stats": {
       "HP": 160,
       "Atk": 234,
@@ -3570,6 +3784,7 @@
     ]
   },
   "Sneasel": {
+    "name": "Sneasel",
     "stats": {
       "HP": 110,
       "Atk": 189,
@@ -3582,6 +3797,7 @@
     ]
   },
   "Teddiursa": {
+    "name": "Teddiursa",
     "stats": {
       "HP": 120,
       "Atk": 142,
@@ -3601,6 +3817,7 @@
     }
   },
   "Ursaring": {
+    "name": "Ursaring",
     "stats": {
       "HP": 180,
       "Atk": 236,
@@ -3615,6 +3832,7 @@
     }
   },
   "Slugma": {
+    "name": "Slugma",
     "stats": {
       "HP": 80,
       "Atk": 118,
@@ -3634,6 +3852,7 @@
     }
   },
   "Magcargo": {
+    "name": "Magcargo",
     "stats": {
       "HP": 100,
       "Atk": 139,
@@ -3649,6 +3868,7 @@
     }
   },
   "Swinub": {
+    "name": "Swinub",
     "stats": {
       "HP": 100,
       "Atk": 90,
@@ -3669,6 +3889,7 @@
     }
   },
   "Piloswine": {
+    "name": "Piloswine",
     "stats": {
       "HP": 200,
       "Atk": 181,
@@ -3684,6 +3905,7 @@
     }
   },
   "Corsola": {
+    "name": "Corsola",
     "stats": {
       "HP": 110,
       "Atk": 118,
@@ -3696,6 +3918,7 @@
     ]
   },
   "Remoraid": {
+    "name": "Remoraid",
     "stats": {
       "HP": 70,
       "Atk": 127,
@@ -3715,6 +3938,7 @@
     }
   },
   "Octillery": {
+    "name": "Octillery",
     "stats": {
       "HP": 150,
       "Atk": 197,
@@ -3729,6 +3953,7 @@
     }
   },
   "Delibird": {
+    "name": "Delibird",
     "stats": {
       "HP": 90,
       "Atk": 128,
@@ -3741,6 +3966,7 @@
     ]
   },
   "Mantine": {
+    "name": "Mantine",
     "stats": {
       "HP": 130,
       "Atk": 148,
@@ -3753,6 +3979,7 @@
     ]
   },
   "Skarmory": {
+    "name": "Skarmory",
     "stats": {
       "HP": 130,
       "Atk": 148,
@@ -3765,6 +3992,7 @@
     ]
   },
   "Houndour": {
+    "name": "Houndour",
     "stats": {
       "HP": 90,
       "Atk": 152,
@@ -3785,6 +4013,7 @@
     }
   },
   "Houndoom": {
+    "name": "Houndoom",
     "stats": {
       "HP": 150,
       "Atk": 224,
@@ -3800,6 +4029,7 @@
     }
   },
   "Kingdra": {
+    "name": "Kingdra",
     "stats": {
       "HP": 150,
       "Atk": 194,
@@ -3815,6 +4045,7 @@
     }
   },
   "Phanpy": {
+    "name": "Phanpy",
     "stats": {
       "HP": 180,
       "Atk": 107,
@@ -3834,6 +4065,7 @@
     }
   },
   "Donphan": {
+    "name": "Donphan",
     "stats": {
       "HP": 180,
       "Atk": 214,
@@ -3848,6 +4080,7 @@
     }
   },
   "Porygon2": {
+    "name": "Porygon2",
     "stats": {
       "HP": 170,
       "Atk": 198,
@@ -3862,6 +4095,7 @@
     }
   },
   "Stantler": {
+    "name": "Stantler",
     "stats": {
       "HP": 146,
       "Atk": 192,
@@ -3873,6 +4107,7 @@
     ]
   },
   "Smeargle": {
+    "name": "Smeargle",
     "stats": {
       "HP": 110,
       "Atk": 40,
@@ -3884,6 +4119,7 @@
     ]
   },
   "Tyrogue": {
+    "name": "Tyrogue",
     "stats": {
       "HP": 70,
       "Atk": 64,
@@ -3911,6 +4147,7 @@
     }
   },
   "Hitmontop": {
+    "name": "Hitmontop",
     "stats": {
       "HP": 100,
       "Atk": 173,
@@ -3925,6 +4162,7 @@
     }
   },
   "Smoochum": {
+    "name": "Smoochum",
     "stats": {
       "HP": 90,
       "Atk": 153,
@@ -3945,6 +4183,7 @@
     }
   },
   "Elekid": {
+    "name": "Elekid",
     "stats": {
       "HP": 90,
       "Atk": 135,
@@ -3964,6 +4203,7 @@
     }
   },
   "Magby": {
+    "name": "Magby",
     "stats": {
       "HP": 90,
       "Atk": 151,
@@ -3983,6 +4223,7 @@
     }
   },
   "Miltank": {
+    "name": "Miltank",
     "stats": {
       "HP": 190,
       "Atk": 157,
@@ -3994,6 +4235,7 @@
     ]
   },
   "Blissey": {
+    "name": "Blissey",
     "stats": {
       "HP": 510,
       "Atk": 129,
@@ -4008,6 +4250,7 @@
     }
   },
   "Raikou": {
+    "name": "Raikou",
     "stats": {
       "HP": 180,
       "Atk": 241,
@@ -4019,6 +4262,7 @@
     ]
   },
   "Entei": {
+    "name": "Entei",
     "stats": {
       "HP": 230,
       "Atk": 235,
@@ -4030,6 +4274,7 @@
     ]
   },
   "Suicune": {
+    "name": "Suicune",
     "stats": {
       "HP": 200,
       "Atk": 180,
@@ -4041,6 +4286,7 @@
     ]
   },
   "Larvitar": {
+    "name": "Larvitar",
     "stats": {
       "HP": 100,
       "Atk": 115,
@@ -4061,6 +4307,7 @@
     }
   },
   "Pupitar": {
+    "name": "Pupitar",
     "stats": {
       "HP": 140,
       "Atk": 155,
@@ -4082,6 +4329,7 @@
     }
   },
   "Tyranitar": {
+    "name": "Tyranitar",
     "stats": {
       "HP": 200,
       "Atk": 251,
@@ -4097,6 +4345,7 @@
     }
   },
   "Lugia": {
+    "name": "Lugia",
     "stats": {
       "HP": 212,
       "Atk": 193,
@@ -4109,6 +4358,7 @@
     ]
   },
   "Ho_oh": {
+    "name": "Ho_oh",
     "stats": {
       "HP": 193,
       "Atk": 239,
@@ -4121,6 +4371,7 @@
     ]
   },
   "Celebi": {
+    "name": "Celebi",
     "stats": {
       "HP": 200,
       "Atk": 210,
@@ -4133,6 +4384,7 @@
     ]
   },
   "Treecko": {
+    "name": "Treecko",
     "stats": {
       "HP": 80,
       "Atk": 124,
@@ -4152,6 +4404,7 @@
     }
   },
   "Grovyle": {
+    "name": "Grovyle",
     "stats": {
       "HP": 100,
       "Atk": 172,
@@ -4172,6 +4425,7 @@
     }
   },
   "Sceptile": {
+    "name": "Sceptile",
     "stats": {
       "HP": 140,
       "Atk": 223,
@@ -4186,6 +4440,7 @@
     }
   },
   "Torchic": {
+    "name": "Torchic",
     "stats": {
       "HP": 90,
       "Atk": 130,
@@ -4205,6 +4460,7 @@
     }
   },
   "Combusken": {
+    "name": "Combusken",
     "stats": {
       "HP": 120,
       "Atk": 163,
@@ -4226,6 +4482,7 @@
     }
   },
   "Blaziken": {
+    "name": "Blaziken",
     "stats": {
       "HP": 160,
       "Atk": 240,
@@ -4241,6 +4498,7 @@
     }
   },
   "Mudkip": {
+    "name": "Mudkip",
     "stats": {
       "HP": 100,
       "Atk": 126,
@@ -4260,6 +4518,7 @@
     }
   },
   "Marshtomp": {
+    "name": "Marshtomp",
     "stats": {
       "HP": 140,
       "Atk": 156,
@@ -4281,6 +4540,7 @@
     }
   },
   "Swampert": {
+    "name": "Swampert",
     "stats": {
       "HP": 200,
       "Atk": 208,
@@ -4296,6 +4556,7 @@
     }
   },
   "Poochyena": {
+    "name": "Poochyena",
     "stats": {
       "HP": 70,
       "Atk": 96,
@@ -4315,6 +4576,7 @@
     }
   },
   "Mightyena": {
+    "name": "Mightyena",
     "stats": {
       "HP": 140,
       "Atk": 171,
@@ -4329,6 +4591,7 @@
     }
   },
   "Zigzagoon": {
+    "name": "Zigzagoon",
     "stats": {
       "HP": 76,
       "Atk": 58,
@@ -4348,6 +4611,7 @@
     }
   },
   "Linoone": {
+    "name": "Linoone",
     "stats": {
       "HP": 156,
       "Atk": 142,
@@ -4362,6 +4626,7 @@
     }
   },
   "Wurmple": {
+    "name": "Wurmple",
     "stats": {
       "HP": 90,
       "Atk": 75,
@@ -4385,6 +4650,7 @@
     }
   },
   "Silcoon": {
+    "name": "Silcoon",
     "stats": {
       "HP": 100,
       "Atk": 60,
@@ -4405,6 +4671,7 @@
     }
   },
   "Beautifly": {
+    "name": "Beautifly",
     "stats": {
       "HP": 120,
       "Atk": 189,
@@ -4420,6 +4687,7 @@
     }
   },
   "Cascoon": {
+    "name": "Cascoon",
     "stats": {
       "HP": 100,
       "Atk": 60,
@@ -4440,6 +4708,7 @@
     }
   },
   "Dustox": {
+    "name": "Dustox",
     "stats": {
       "HP": 120,
       "Atk": 98,
@@ -4455,6 +4724,7 @@
     }
   },
   "Lotad": {
+    "name": "Lotad",
     "stats": {
       "HP": 80,
       "Atk": 71,
@@ -4475,6 +4745,7 @@
     }
   },
   "Lombre": {
+    "name": "Lombre",
     "stats": {
       "HP": 120,
       "Atk": 112,
@@ -4496,6 +4767,7 @@
     }
   },
   "Ludicolo": {
+    "name": "Ludicolo",
     "stats": {
       "HP": 160,
       "Atk": 173,
@@ -4511,6 +4783,7 @@
     }
   },
   "Seedot": {
+    "name": "Seedot",
     "stats": {
       "HP": 80,
       "Atk": 71,
@@ -4530,6 +4803,7 @@
     }
   },
   "Nuzleaf": {
+    "name": "Nuzleaf",
     "stats": {
       "HP": 140,
       "Atk": 134,
@@ -4551,6 +4825,7 @@
     }
   },
   "Shiftry": {
+    "name": "Shiftry",
     "stats": {
       "HP": 180,
       "Atk": 200,
@@ -4566,6 +4841,7 @@
     }
   },
   "Taillow": {
+    "name": "Taillow",
     "stats": {
       "HP": 80,
       "Atk": 106,
@@ -4586,6 +4862,7 @@
     }
   },
   "Swellow": {
+    "name": "Swellow",
     "stats": {
       "HP": 120,
       "Atk": 185,
@@ -4601,6 +4878,7 @@
     }
   },
   "Wingull": {
+    "name": "Wingull",
     "stats": {
       "HP": 80,
       "Atk": 106,
@@ -4621,6 +4899,7 @@
     }
   },
   "Pelipper": {
+    "name": "Pelipper",
     "stats": {
       "HP": 120,
       "Atk": 175,
@@ -4636,6 +4915,7 @@
     }
   },
   "Ralts": {
+    "name": "Ralts",
     "stats": {
       "HP": 56,
       "Atk": 79,
@@ -4656,6 +4936,7 @@
     }
   },
   "Kirlia": {
+    "name": "Kirlia",
     "stats": {
       "HP": 76,
       "Atk": 117,
@@ -4677,6 +4958,7 @@
     }
   },
   "Gardevoir": {
+    "name": "Gardevoir",
     "stats": {
       "HP": 136,
       "Atk": 237,
@@ -4692,6 +4974,7 @@
     }
   },
   "Surskit": {
+    "name": "Surskit",
     "stats": {
       "HP": 80,
       "Atk": 93,
@@ -4712,6 +4995,7 @@
     }
   },
   "Masquerain": {
+    "name": "Masquerain",
     "stats": {
       "HP": 140,
       "Atk": 192,
@@ -4727,6 +5011,7 @@
     }
   },
   "Shroomish": {
+    "name": "Shroomish",
     "stats": {
       "HP": 120,
       "Atk": 74,
@@ -4746,6 +5031,7 @@
     }
   },
   "Breloom": {
+    "name": "Breloom",
     "stats": {
       "HP": 120,
       "Atk": 241,
@@ -4761,6 +5047,7 @@
     }
   },
   "Slakoth": {
+    "name": "Slakoth",
     "stats": {
       "HP": 120,
       "Atk": 104,
@@ -4780,6 +5067,7 @@
     }
   },
   "Vigoroth": {
+    "name": "Vigoroth",
     "stats": {
       "HP": 160,
       "Atk": 159,
@@ -4800,6 +5088,7 @@
     }
   },
   "Slaking": {
+    "name": "Slaking",
     "stats": {
       "HP": 273,
       "Atk": 290,
@@ -4814,6 +5103,7 @@
     }
   },
   "Nincada": {
+    "name": "Nincada",
     "stats": {
       "HP": 62,
       "Atk": 80,
@@ -4838,6 +5128,7 @@
     }
   },
   "Ninjask": {
+    "name": "Ninjask",
     "stats": {
       "HP": 122,
       "Atk": 196,
@@ -4853,6 +5144,7 @@
     }
   },
   "Shedinja": {
+    "name": "Shedinja",
     "stats": {
       "HP": 2,
       "Atk": 153,
@@ -4868,6 +5160,7 @@
     }
   },
   "Whismur": {
+    "name": "Whismur",
     "stats": {
       "HP": 128,
       "Atk": 92,
@@ -4887,6 +5180,7 @@
     }
   },
   "Loudred": {
+    "name": "Loudred",
     "stats": {
       "HP": 168,
       "Atk": 134,
@@ -4907,6 +5201,7 @@
     }
   },
   "Exploud": {
+    "name": "Exploud",
     "stats": {
       "HP": 208,
       "Atk": 179,
@@ -4921,6 +5216,7 @@
     }
   },
   "Makuhita": {
+    "name": "Makuhita",
     "stats": {
       "HP": 144,
       "Atk": 99,
@@ -4940,6 +5236,7 @@
     }
   },
   "Hariyama": {
+    "name": "Hariyama",
     "stats": {
       "HP": 288,
       "Atk": 209,
@@ -4954,6 +5251,7 @@
     }
   },
   "Azurill": {
+    "name": "Azurill",
     "stats": {
       "HP": 100,
       "Atk": 36,
@@ -4974,6 +5272,7 @@
     }
   },
   "Nosepass": {
+    "name": "Nosepass",
     "stats": {
       "HP": 60,
       "Atk": 82,
@@ -4985,6 +5284,7 @@
     ]
   },
   "Skitty": {
+    "name": "Skitty",
     "stats": {
       "HP": 100,
       "Atk": 84,
@@ -5004,6 +5304,7 @@
     }
   },
   "Delcatty": {
+    "name": "Delcatty",
     "stats": {
       "HP": 140,
       "Atk": 132,
@@ -5018,6 +5319,7 @@
     }
   },
   "Sableye": {
+    "name": "Sableye",
     "stats": {
       "HP": 100,
       "Atk": 141,
@@ -5030,6 +5332,7 @@
     ]
   },
   "Mawile": {
+    "name": "Mawile",
     "stats": {
       "HP": 100,
       "Atk": 155,
@@ -5042,6 +5345,7 @@
     ]
   },
   "Aron": {
+    "name": "Aron",
     "stats": {
       "HP": 100,
       "Atk": 121,
@@ -5062,6 +5366,7 @@
     }
   },
   "Lairon": {
+    "name": "Lairon",
     "stats": {
       "HP": 120,
       "Atk": 158,
@@ -5083,6 +5388,7 @@
     }
   },
   "Aggron": {
+    "name": "Aggron",
     "stats": {
       "HP": 140,
       "Atk": 198,
@@ -5098,6 +5404,7 @@
     }
   },
   "Meditite": {
+    "name": "Meditite",
     "stats": {
       "HP": 60,
       "Atk": 78,
@@ -5118,6 +5425,7 @@
     }
   },
   "Medicham": {
+    "name": "Medicham",
     "stats": {
       "HP": 120,
       "Atk": 121,
@@ -5133,6 +5441,7 @@
     }
   },
   "Electrike": {
+    "name": "Electrike",
     "stats": {
       "HP": 80,
       "Atk": 123,
@@ -5152,6 +5461,7 @@
     }
   },
   "Manectric": {
+    "name": "Manectric",
     "stats": {
       "HP": 140,
       "Atk": 215,
@@ -5166,6 +5476,7 @@
     }
   },
   "Plusle": {
+    "name": "Plusle",
     "stats": {
       "HP": 120,
       "Atk": 167,
@@ -5177,6 +5488,7 @@
     ]
   },
   "Minun": {
+    "name": "Minun",
     "stats": {
       "HP": 120,
       "Atk": 147,
@@ -5188,6 +5500,7 @@
     ]
   },
   "Volbeat": {
+    "name": "Volbeat",
     "stats": {
       "HP": 130,
       "Atk": 143,
@@ -5199,6 +5512,7 @@
     ]
   },
   "Illumise": {
+    "name": "Illumise",
     "stats": {
       "HP": 130,
       "Atk": 143,
@@ -5210,6 +5524,7 @@
     ]
   },
   "Roselia": {
+    "name": "Roselia",
     "stats": {
       "HP": 100,
       "Atk": 186,
@@ -5222,6 +5537,7 @@
     ]
   },
   "Gulpin": {
+    "name": "Gulpin",
     "stats": {
       "HP": 140,
       "Atk": 80,
@@ -5241,6 +5557,7 @@
     }
   },
   "Swalot": {
+    "name": "Swalot",
     "stats": {
       "HP": 200,
       "Atk": 140,
@@ -5255,6 +5572,7 @@
     }
   },
   "Carvanha": {
+    "name": "Carvanha",
     "stats": {
       "HP": 90,
       "Atk": 171,
@@ -5275,6 +5593,7 @@
     }
   },
   "Sharpedo": {
+    "name": "Sharpedo",
     "stats": {
       "HP": 140,
       "Atk": 243,
@@ -5290,6 +5609,7 @@
     }
   },
   "Wailmer": {
+    "name": "Wailmer",
     "stats": {
       "HP": 260,
       "Atk": 136,
@@ -5309,6 +5629,7 @@
     }
   },
   "Wailord": {
+    "name": "Wailord",
     "stats": {
       "HP": 340,
       "Atk": 175,
@@ -5323,6 +5644,7 @@
     }
   },
   "Numel": {
+    "name": "Numel",
     "stats": {
       "HP": 120,
       "Atk": 119,
@@ -5343,6 +5665,7 @@
     }
   },
   "Camerupt": {
+    "name": "Camerupt",
     "stats": {
       "HP": 140,
       "Atk": 194,
@@ -5358,6 +5681,7 @@
     }
   },
   "Torkoal": {
+    "name": "Torkoal",
     "stats": {
       "HP": 140,
       "Atk": 151,
@@ -5369,6 +5693,7 @@
     ]
   },
   "Spoink": {
+    "name": "Spoink",
     "stats": {
       "HP": 120,
       "Atk": 125,
@@ -5388,6 +5713,7 @@
     }
   },
   "Grumpig": {
+    "name": "Grumpig",
     "stats": {
       "HP": 160,
       "Atk": 171,
@@ -5402,6 +5728,7 @@
     }
   },
   "Spinda": {
+    "name": "Spinda",
     "stats": {
       "HP": 120,
       "Atk": 116,
@@ -5413,6 +5740,7 @@
     ]
   },
   "Trapinch": {
+    "name": "Trapinch",
     "stats": {
       "HP": 90,
       "Atk": 162,
@@ -5432,6 +5760,7 @@
     }
   },
   "Vibrava": {
+    "name": "Vibrava",
     "stats": {
       "HP": 100,
       "Atk": 134,
@@ -5453,6 +5782,7 @@
     }
   },
   "Flygon": {
+    "name": "Flygon",
     "stats": {
       "HP": 160,
       "Atk": 205,
@@ -5468,6 +5798,7 @@
     }
   },
   "Cacnea": {
+    "name": "Cacnea",
     "stats": {
       "HP": 100,
       "Atk": 156,
@@ -5487,6 +5818,7 @@
     }
   },
   "Cacturne": {
+    "name": "Cacturne",
     "stats": {
       "HP": 140,
       "Atk": 221,
@@ -5502,6 +5834,7 @@
     }
   },
   "Swablu": {
+    "name": "Swablu",
     "stats": {
       "HP": 90,
       "Atk": 76,
@@ -5522,6 +5855,7 @@
     }
   },
   "Altaria": {
+    "name": "Altaria",
     "stats": {
       "HP": 150,
       "Atk": 141,
@@ -5537,6 +5871,7 @@
     }
   },
   "Zangoose": {
+    "name": "Zangoose",
     "stats": {
       "HP": 146,
       "Atk": 222,
@@ -5548,6 +5883,7 @@
     ]
   },
   "Seviper": {
+    "name": "Seviper",
     "stats": {
       "HP": 146,
       "Atk": 196,
@@ -5559,6 +5895,7 @@
     ]
   },
   "Lunatone": {
+    "name": "Lunatone",
     "stats": {
       "HP": 180,
       "Atk": 178,
@@ -5571,6 +5908,7 @@
     ]
   },
   "Solrock": {
+    "name": "Solrock",
     "stats": {
       "HP": 180,
       "Atk": 178,
@@ -5583,6 +5921,7 @@
     ]
   },
   "Barboach": {
+    "name": "Barboach",
     "stats": {
       "HP": 100,
       "Atk": 93,
@@ -5603,6 +5942,7 @@
     }
   },
   "Whiscash": {
+    "name": "Whiscash",
     "stats": {
       "HP": 220,
       "Atk": 151,
@@ -5618,6 +5958,7 @@
     }
   },
   "Corphish": {
+    "name": "Corphish",
     "stats": {
       "HP": 86,
       "Atk": 141,
@@ -5637,6 +5978,7 @@
     }
   },
   "Crawdaunt": {
+    "name": "Crawdaunt",
     "stats": {
       "HP": 126,
       "Atk": 224,
@@ -5652,6 +5994,7 @@
     }
   },
   "Baltoy": {
+    "name": "Baltoy",
     "stats": {
       "HP": 80,
       "Atk": 77,
@@ -5672,6 +6015,7 @@
     }
   },
   "Claydol": {
+    "name": "Claydol",
     "stats": {
       "HP": 120,
       "Atk": 140,
@@ -5687,6 +6031,7 @@
     }
   },
   "Lileep": {
+    "name": "Lileep",
     "stats": {
       "HP": 132,
       "Atk": 105,
@@ -5707,6 +6052,7 @@
     }
   },
   "Cradily": {
+    "name": "Cradily",
     "stats": {
       "HP": 172,
       "Atk": 152,
@@ -5722,6 +6068,7 @@
     }
   },
   "Anorith": {
+    "name": "Anorith",
     "stats": {
       "HP": 90,
       "Atk": 176,
@@ -5742,6 +6089,7 @@
     }
   },
   "Armaldo": {
+    "name": "Armaldo",
     "stats": {
       "HP": 150,
       "Atk": 222,
@@ -5757,6 +6105,7 @@
     }
   },
   "Feebas": {
+    "name": "Feebas",
     "stats": {
       "HP": 40,
       "Atk": 29,
@@ -5776,6 +6125,7 @@
     }
   },
   "Milotic": {
+    "name": "Milotic",
     "stats": {
       "HP": 190,
       "Atk": 192,
@@ -5790,6 +6140,7 @@
     }
   },
   "Castform": {
+    "name": "Castform",
     "stats": {
       "HP": 140,
       "Atk": 139,
@@ -5801,6 +6152,7 @@
     ]
   },
   "Kecleon": {
+    "name": "Kecleon",
     "stats": {
       "HP": 120,
       "Atk": 161,
@@ -5812,6 +6164,7 @@
     ]
   },
   "Shuppet": {
+    "name": "Shuppet",
     "stats": {
       "HP": 88,
       "Atk": 138,
@@ -5831,6 +6184,7 @@
     }
   },
   "Banette": {
+    "name": "Banette",
     "stats": {
       "HP": 128,
       "Atk": 218,
@@ -5845,6 +6199,7 @@
     }
   },
   "Duskull": {
+    "name": "Duskull",
     "stats": {
       "HP": 40,
       "Atk": 70,
@@ -5864,6 +6219,7 @@
     }
   },
   "Dusclops": {
+    "name": "Dusclops",
     "stats": {
       "HP": 80,
       "Atk": 124,
@@ -5878,6 +6234,7 @@
     }
   },
   "Tropius": {
+    "name": "Tropius",
     "stats": {
       "HP": 198,
       "Atk": 136,
@@ -5890,6 +6247,7 @@
     ]
   },
   "Chimecho": {
+    "name": "Chimecho",
     "stats": {
       "HP": 150,
       "Atk": 175,
@@ -5901,6 +6259,7 @@
     ]
   },
   "Absol": {
+    "name": "Absol",
     "stats": {
       "HP": 130,
       "Atk": 246,
@@ -5912,6 +6271,7 @@
     ]
   },
   "Wynaut": {
+    "name": "Wynaut",
     "stats": {
       "HP": 190,
       "Atk": 41,
@@ -5931,6 +6291,7 @@
     }
   },
   "Snorunt": {
+    "name": "Snorunt",
     "stats": {
       "HP": 100,
       "Atk": 95,
@@ -5950,6 +6311,7 @@
     }
   },
   "Glalie": {
+    "name": "Glalie",
     "stats": {
       "HP": 160,
       "Atk": 162,
@@ -5964,6 +6326,7 @@
     }
   },
   "Spheal": {
+    "name": "Spheal",
     "stats": {
       "HP": 140,
       "Atk": 95,
@@ -5984,6 +6347,7 @@
     }
   },
   "Sealeo": {
+    "name": "Sealeo",
     "stats": {
       "HP": 180,
       "Atk": 137,
@@ -6005,6 +6369,7 @@
     }
   },
   "Walrein": {
+    "name": "Walrein",
     "stats": {
       "HP": 220,
       "Atk": 182,
@@ -6020,6 +6385,7 @@
     }
   },
   "Clamperl": {
+    "name": "Clamperl",
     "stats": {
       "HP": 70,
       "Atk": 133,
@@ -6043,6 +6409,7 @@
     }
   },
   "Huntail": {
+    "name": "Huntail",
     "stats": {
       "HP": 110,
       "Atk": 197,
@@ -6057,6 +6424,7 @@
     }
   },
   "Gorebyss": {
+    "name": "Gorebyss",
     "stats": {
       "HP": 110,
       "Atk": 211,
@@ -6071,6 +6439,7 @@
     }
   },
   "Relicanth": {
+    "name": "Relicanth",
     "stats": {
       "HP": 200,
       "Atk": 162,
@@ -6083,6 +6452,7 @@
     ]
   },
   "Luvdisc": {
+    "name": "Luvdisc",
     "stats": {
       "HP": 86,
       "Atk": 81,
@@ -6094,6 +6464,7 @@
     ]
   },
   "Bagon": {
+    "name": "Bagon",
     "stats": {
       "HP": 90,
       "Atk": 134,
@@ -6113,6 +6484,7 @@
     }
   },
   "Shelgon": {
+    "name": "Shelgon",
     "stats": {
       "HP": 130,
       "Atk": 172,
@@ -6133,6 +6505,7 @@
     }
   },
   "Salamence": {
+    "name": "Salamence",
     "stats": {
       "HP": 190,
       "Atk": 277,
@@ -6148,6 +6521,7 @@
     }
   },
   "Beldum": {
+    "name": "Beldum",
     "stats": {
       "HP": 80,
       "Atk": 96,
@@ -6168,6 +6542,7 @@
     }
   },
   "Metang": {
+    "name": "Metang",
     "stats": {
       "HP": 120,
       "Atk": 138,
@@ -6189,6 +6564,7 @@
     }
   },
   "Metagross": {
+    "name": "Metagross",
     "stats": {
       "HP": 160,
       "Atk": 257,
@@ -6204,6 +6580,7 @@
     }
   },
   "Regirock": {
+    "name": "Regirock",
     "stats": {
       "HP": 160,
       "Atk": 179,
@@ -6215,6 +6592,7 @@
     ]
   },
   "Regice": {
+    "name": "Regice",
     "stats": {
       "HP": 160,
       "Atk": 179,
@@ -6226,6 +6604,7 @@
     ]
   },
   "Registeel": {
+    "name": "Registeel",
     "stats": {
       "HP": 160,
       "Atk": 143,
@@ -6237,6 +6616,7 @@
     ]
   },
   "Latias": {
+    "name": "Latias",
     "stats": {
       "HP": 160,
       "Atk": 228,
@@ -6249,6 +6629,7 @@
     ]
   },
   "Latios": {
+    "name": "Latios",
     "stats": {
       "HP": 160,
       "Atk": 268,
@@ -6261,6 +6642,7 @@
     ]
   },
   "Kyogre": {
+    "name": "Kyogre",
     "stats": {
       "HP": 182,
       "Atk": 270,
@@ -6272,6 +6654,7 @@
     ]
   },
   "Groudon": {
+    "name": "Groudon",
     "stats": {
       "HP": 182,
       "Atk": 270,
@@ -6283,6 +6666,7 @@
     ]
   },
   "Rayquaza": {
+    "name": "Rayquaza",
     "stats": {
       "HP": 191,
       "Atk": 284,
@@ -6295,6 +6679,7 @@
     ]
   },
   "Jirachi": {
+    "name": "Jirachi",
     "stats": {
       "HP": 200,
       "Atk": 210,
@@ -6307,6 +6692,7 @@
     ]
   },
   "Deoxys": {
+    "name": "Deoxys",
     "stats": {
       "HP": 100,
       "Atk": 230,
