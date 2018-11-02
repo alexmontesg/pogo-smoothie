@@ -6,6 +6,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
+    "build": "webpack --config build/webpack.config.js --watch",
     "test": "node ace test"
   },
   "keywords": [

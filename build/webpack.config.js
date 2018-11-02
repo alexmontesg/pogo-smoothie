@@ -1,7 +1,7 @@
 module.exports = {
-  entry: ['../resources/scripts/main.js'],
+  entry: ['./resources/scripts/main.js'],
   output: {
-    filename: '../../public/bundle.js'
+    filename: './../public/bundle.js'
   },
   mode: 'development',
   module: {
